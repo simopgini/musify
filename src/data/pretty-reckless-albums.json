@@ -1,0 +1,186 @@
+{
+  "href": "https://api.spotify.com/v1/artists/2R57sY41L9XvGPiIgHOaYq/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R57sY41L9XvGPiIgHOaYq",
+          "id": "2R57sY41L9XvGPiIgHOaYq",
+          "name": "The Pretty Reckless",
+          "type": "artist",
+          "uri": "spotify:artist:2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ysgEIHY4aOMMbbu0uV6ey",
+      "id": "2ysgEIHY4aOMMbbu0uV6ey",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8045b6cc934e134e99eddd6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8045b6cc934e134e99eddd6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a8045b6cc934e134e99eddd6",
+          "width": 64
+        }
+      ],
+      "name": "Death By Rock And Roll",
+      "release_date": "2021-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2ysgEIHY4aOMMbbu0uV6ey"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R57sY41L9XvGPiIgHOaYq",
+          "id": "2R57sY41L9XvGPiIgHOaYq",
+          "name": "The Pretty Reckless",
+          "type": "artist",
+          "uri": "spotify:artist:2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3AZEkfskdyarjKUJKVgKHS"
+      },
+      "href": "https://api.spotify.com/v1/albums/3AZEkfskdyarjKUJKVgKHS",
+      "id": "3AZEkfskdyarjKUJKVgKHS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b014f883b6fc2731a6e154be",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b014f883b6fc2731a6e154be",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b014f883b6fc2731a6e154be",
+          "width": 64
+        }
+      ],
+      "name": "Who You Selling For",
+      "release_date": "2016-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3AZEkfskdyarjKUJKVgKHS"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R57sY41L9XvGPiIgHOaYq",
+          "id": "2R57sY41L9XvGPiIgHOaYq",
+          "name": "The Pretty Reckless",
+          "type": "artist",
+          "uri": "spotify:artist:2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1g1l7zxXZxtpL06tudLYtb"
+      },
+      "href": "https://api.spotify.com/v1/albums/1g1l7zxXZxtpL06tudLYtb",
+      "id": "1g1l7zxXZxtpL06tudLYtb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5b30348a138a6cbdac22795",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5b30348a138a6cbdac22795",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d5b30348a138a6cbdac22795",
+          "width": 64
+        }
+      ],
+      "name": "Going to Hell",
+      "release_date": "2014-03-25",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:1g1l7zxXZxtpL06tudLYtb"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R57sY41L9XvGPiIgHOaYq",
+          "id": "2R57sY41L9XvGPiIgHOaYq",
+          "name": "The Pretty Reckless",
+          "type": "artist",
+          "uri": "spotify:artist:2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3i2gHXs5EUse82Y4gZSZKO"
+      },
+      "href": "https://api.spotify.com/v1/albums/3i2gHXs5EUse82Y4gZSZKO",
+      "id": "3i2gHXs5EUse82Y4gZSZKO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27387973ac3138bf1cfc5448e50",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0287973ac3138bf1cfc5448e50",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485187973ac3138bf1cfc5448e50",
+          "width": 64
+        }
+      ],
+      "name": "Light Me Up",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3i2gHXs5EUse82Y4gZSZKO"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 16
+}
