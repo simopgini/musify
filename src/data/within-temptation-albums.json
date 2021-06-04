@@ -1,0 +1,365 @@
+{
+  "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2nGgpfe9684ekh5Vinn1kZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/2nGgpfe9684ekh5Vinn1kZ",
+      "id": "2nGgpfe9684ekh5Vinn1kZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4640fc8378887186c4cfbc7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4640fc8378887186c4cfbc7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4640fc8378887186c4cfbc7",
+          "width": 64
+        }
+      ],
+      "name": "RESIST",
+      "release_date": "2019-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2nGgpfe9684ekh5Vinn1kZ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zMAgwltwzSBFGi6bK7sAU"
+      },
+      "href": "https://api.spotify.com/v1/albums/5zMAgwltwzSBFGi6bK7sAU",
+      "id": "5zMAgwltwzSBFGi6bK7sAU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27316d59d3ee401f47c9614cffb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0216d59d3ee401f47c9614cffb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485116d59d3ee401f47c9614cffb",
+          "width": 64
+        }
+      ],
+      "name": "Let Us Burn (Elements & Hydra Live in Concert)",
+      "release_date": "2014-10-11",
+      "release_date_precision": "day",
+      "total_tracks": 32,
+      "type": "album",
+      "uri": "spotify:album:5zMAgwltwzSBFGi6bK7sAU"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hbFubqseR3NFJLSRKNTnt"
+      },
+      "href": "https://api.spotify.com/v1/albums/0hbFubqseR3NFJLSRKNTnt",
+      "id": "0hbFubqseR3NFJLSRKNTnt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737202c24b6539753a2058145e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027202c24b6539753a2058145e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517202c24b6539753a2058145e",
+          "width": 64
+        }
+      ],
+      "name": "Enter + The Dance",
+      "release_date": "2014-10-11",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0hbFubqseR3NFJLSRKNTnt"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1n8Dw55DnfiRRsbf6xWdoF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1n8Dw55DnfiRRsbf6xWdoF",
+      "id": "1n8Dw55DnfiRRsbf6xWdoF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ecd5404a8a3bc42cc794eec7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ecd5404a8a3bc42cc794eec7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ecd5404a8a3bc42cc794eec7",
+          "width": 64
+        }
+      ],
+      "name": "Hydra",
+      "release_date": "2014-01-22",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1n8Dw55DnfiRRsbf6xWdoF"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
+      },
+      "href": "https://api.spotify.com/v1/albums/1EvpTfBqlDzPwDYzWTgTw3",
+      "id": "1EvpTfBqlDzPwDYzWTgTw3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcb4a0f3772f0a25db7eb965",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcb4a0f3772f0a25db7eb965",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965",
+          "width": 64
+        }
+      ],
+      "name": "The Unforgiving",
+      "release_date": "2011-03-25",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:1EvpTfBqlDzPwDYzWTgTw3"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0HGl3ZyxA6B6r3Dj5IQmuR"
+      },
+      "href": "https://api.spotify.com/v1/albums/0HGl3ZyxA6B6r3Dj5IQmuR",
+      "id": "0HGl3ZyxA6B6r3Dj5IQmuR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c8e2b0688f616e8cb5355fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028c8e2b0688f616e8cb5355fd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518c8e2b0688f616e8cb5355fd",
+          "width": 64
+        }
+      ],
+      "name": "An Acoustic Night At The Theatre",
+      "release_date": "2009-10-30",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0HGl3ZyxA6B6r3Dj5IQmuR"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2oIZQibeiQAnVjm9XmkXcf"
+      },
+      "href": "https://api.spotify.com/v1/albums/2oIZQibeiQAnVjm9XmkXcf",
+      "id": "2oIZQibeiQAnVjm9XmkXcf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736c58452e7749ca44ba649a86",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026c58452e7749ca44ba649a86",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516c58452e7749ca44ba649a86",
+          "width": 64
+        }
+      ],
+      "name": "Black Symphony",
+      "release_date": "2008-09-19",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:2oIZQibeiQAnVjm9XmkXcf"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+          "id": "3hE8S8ohRErocpkY7uJW4a",
+          "name": "Within Temptation",
+          "type": "artist",
+          "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "href": "https://api.spotify.com/v1/albums/4jE1uyxDWwHuSGQmbsusLM",
+      "id": "4jE1uyxDWwHuSGQmbsusLM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d22cd316736c66d068a71e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d22cd316736c66d068a71e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d22cd316736c66d068a71e2",
+          "width": 64
+        }
+      ],
+      "name": "The Heart Of Everything",
+      "release_date": "2007-03-09",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:4jE1uyxDWwHuSGQmbsusLM"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a/albums?offset=20&limit=20&include_groups=album&market=GB",
+  "offset": 0,
+  "previous": null,
+  "total": 26
+}

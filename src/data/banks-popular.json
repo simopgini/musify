@@ -1,0 +1,774 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4Sjyp7k5gu6ZcF6nrgkLYt"
+        },
+        "href": "https://api.spotify.com/v1/albums/4Sjyp7k5gu6ZcF6nrgkLYt",
+        "id": "4Sjyp7k5gu6ZcF6nrgkLYt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e055ef91651aeeebd891337b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e055ef91651aeeebd891337b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e055ef91651aeeebd891337b",
+            "width": 64
+          }
+        ],
+        "name": "Goddess",
+        "release_date": "2014-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:4Sjyp7k5gu6ZcF6nrgkLYt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 281017,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71405260"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5I5d7nOY69uFy1b9rXHGV1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5I5d7nOY69uFy1b9rXHGV1",
+      "id": "5I5d7nOY69uFy1b9rXHGV1",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Someone New",
+      "popularity": 41,
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5I5d7nOY69uFy1b9rXHGV1"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4Sjyp7k5gu6ZcF6nrgkLYt"
+        },
+        "href": "https://api.spotify.com/v1/albums/4Sjyp7k5gu6ZcF6nrgkLYt",
+        "id": "4Sjyp7k5gu6ZcF6nrgkLYt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e055ef91651aeeebd891337b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e055ef91651aeeebd891337b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e055ef91651aeeebd891337b",
+            "width": 64
+          }
+        ],
+        "name": "Goddess",
+        "release_date": "2014-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:4Sjyp7k5gu6ZcF6nrgkLYt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249739,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71405259"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1LmQGjr6NkssUufw8st8PU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1LmQGjr6NkssUufw8st8PU",
+      "id": "1LmQGjr6NkssUufw8st8PU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Beggin For Thread",
+      "popularity": 40,
+      "preview_url": null,
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1LmQGjr6NkssUufw8st8PU"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4Sjyp7k5gu6ZcF6nrgkLYt"
+        },
+        "href": "https://api.spotify.com/v1/albums/4Sjyp7k5gu6ZcF6nrgkLYt",
+        "id": "4Sjyp7k5gu6ZcF6nrgkLYt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e055ef91651aeeebd891337b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e055ef91651aeeebd891337b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e055ef91651aeeebd891337b",
+            "width": 64
+          }
+        ],
+        "name": "Goddess",
+        "release_date": "2014-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:4Sjyp7k5gu6ZcF6nrgkLYt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207718,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71310457"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1eVSIwID90tbwYNrLeugyQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1eVSIwID90tbwYNrLeugyQ",
+      "id": "1eVSIwID90tbwYNrLeugyQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Waiting Game",
+      "popularity": 41,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1eVSIwID90tbwYNrLeugyQ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo"
+        },
+        "href": "https://api.spotify.com/v1/albums/0oXzdlZ9duItTwmJLXbAfo",
+        "id": "0oXzdlZ9duItTwmJLXbAfo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733ddc7c6b5ba2978d161e30af",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023ddc7c6b5ba2978d161e30af",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513ddc7c6b5ba2978d161e30af",
+            "width": 64
+          }
+        ],
+        "name": "III",
+        "release_date": "2019-07-12",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:0oXzdlZ9duItTwmJLXbAfo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 280680,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71904861"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4tJi4dodnpJ0MSKj2w6OkP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4tJi4dodnpJ0MSKj2w6OkP",
+      "id": "4tJi4dodnpJ0MSKj2w6OkP",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Contaminated",
+      "popularity": 58,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4tJi4dodnpJ0MSKj2w6OkP"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
+        },
+        "href": "https://api.spotify.com/v1/albums/2WzQeYsbrDq1UcVZmY8dVR",
+        "id": "2WzQeYsbrDq1UcVZmY8dVR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731eddafbae86f6791a33ce30d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021eddafbae86f6791a33ce30d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511eddafbae86f6791a33ce30d",
+            "width": 64
+          }
+        ],
+        "name": "The Altar",
+        "release_date": "2016-09-30",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:2WzQeYsbrDq1UcVZmY8dVR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186333,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71605787"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5fdzPMOxUqVJYSzTP5cFP7",
+      "id": "5fdzPMOxUqVJYSzTP5cFP7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Gemini Feed",
+      "popularity": 57,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5fdzPMOxUqVJYSzTP5cFP7"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
+        },
+        "href": "https://api.spotify.com/v1/albums/41xJklJV7uqDzg9teggeR6",
+        "id": "41xJklJV7uqDzg9teggeR6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738c8ec4d60870db20c6dcc99e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028c8ec4d60870db20c6dcc99e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518c8ec4d60870db20c6dcc99e",
+            "width": 64
+          }
+        ],
+        "name": "Warm Water (Snakehips Remix)",
+        "release_date": "2013-08-13",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:41xJklJV7uqDzg9teggeR6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP",
+          "id": "2FwJwEswyIUAljqgjNSHgP",
+          "name": "Snakehips",
+          "type": "artist",
+          "uri": "spotify:artist:2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253584,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GB8Z41200015"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63Ly2sEzloc9s0yAXlMi6r",
+      "id": "63Ly2sEzloc9s0yAXlMi6r",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Warm Water - Snakehips Remix",
+      "popularity": 56,
+      "preview_url": "https://p.scdn.co/mp3-preview/a2a6a867840c4d92e87fdf13540b3582c72f4534?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:63Ly2sEzloc9s0yAXlMi6r"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo"
+        },
+        "href": "https://api.spotify.com/v1/albums/0oXzdlZ9duItTwmJLXbAfo",
+        "id": "0oXzdlZ9duItTwmJLXbAfo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733ddc7c6b5ba2978d161e30af",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023ddc7c6b5ba2978d161e30af",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513ddc7c6b5ba2978d161e30af",
+            "width": 64
+          }
+        ],
+        "name": "III",
+        "release_date": "2019-07-12",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:0oXzdlZ9duItTwmJLXbAfo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219493,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71904862"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2J4T0IOIZjQhLzosKPR2PN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2J4T0IOIZjQhLzosKPR2PN",
+      "id": "2J4T0IOIZjQhLzosKPR2PN",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Gimme",
+      "popularity": 55,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2J4T0IOIZjQhLzosKPR2PN"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D"
+        },
+        "href": "https://api.spotify.com/v1/albums/5kBfpqZQEERHLnFCDGoX9D",
+        "id": "5kBfpqZQEERHLnFCDGoX9D",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273061c254ee94f3e8e0eb9723e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02061c254ee94f3e8e0eb9723e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851061c254ee94f3e8e0eb9723e",
+            "width": 64
+          }
+        ],
+        "name": "Crowded Places",
+        "release_date": "2017-04-07",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5kBfpqZQEERHLnFCDGoX9D"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262259,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71703093"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6kNMg11e0ApnTmExdayfA1",
+      "id": "6kNMg11e0ApnTmExdayfA1",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Crowded Places",
+      "popularity": 53,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6kNMg11e0ApnTmExdayfA1"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
+        },
+        "href": "https://api.spotify.com/v1/albums/2WzQeYsbrDq1UcVZmY8dVR",
+        "id": "2WzQeYsbrDq1UcVZmY8dVR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731eddafbae86f6791a33ce30d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021eddafbae86f6791a33ce30d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511eddafbae86f6791a33ce30d",
+            "width": 64
+          }
+        ],
+        "name": "The Altar",
+        "release_date": "2016-09-30",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:2WzQeYsbrDq1UcVZmY8dVR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 175440,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71605825"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3yMQ2HIVpgZHKLLBCBJ52e"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3yMQ2HIVpgZHKLLBCBJ52e",
+      "id": "3yMQ2HIVpgZHKLLBCBJ52e",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Fuck With Myself",
+      "popularity": 52,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3yMQ2HIVpgZHKLLBCBJ52e"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+            },
+            "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+            "id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "name": "BANKS",
+            "type": "artist",
+            "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4Sjyp7k5gu6ZcF6nrgkLYt"
+        },
+        "href": "https://api.spotify.com/v1/albums/4Sjyp7k5gu6ZcF6nrgkLYt",
+        "id": "4Sjyp7k5gu6ZcF6nrgkLYt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e055ef91651aeeebd891337b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e055ef91651aeeebd891337b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e055ef91651aeeebd891337b",
+            "width": 64
+          }
+        ],
+        "name": "Goddess",
+        "release_date": "2014-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:4Sjyp7k5gu6ZcF6nrgkLYt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242915,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71405216"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4sZWGBqG9B2PIV0uzbRN16"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4sZWGBqG9B2PIV0uzbRN16",
+      "id": "4sZWGBqG9B2PIV0uzbRN16",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Goddess",
+      "popularity": 31,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4sZWGBqG9B2PIV0uzbRN16"
+    }
+  ]
+}

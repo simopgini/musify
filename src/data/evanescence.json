@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+  },
+  "followers": {
+    "href": null,
+    "total": 3062243
+  },
+  "genres": [
+    "alternative metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+  "id": "5nGIFgo0shDenQYSE0Sn7c",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/a7ac8ef4b111ea20b3bb6cff32d4e124f49f6fb9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/6c38bb48d66788e17bb4dc274848a5b0640a36cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/420693d3fc070a89677d5e5593a6947242e1e262",
+      "width": 160
+    }
+  ],
+  "name": "Evanescence",
+  "popularity": 77,
+  "type": "artist",
+  "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+}

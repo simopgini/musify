@@ -1,0 +1,784 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3saxyjZiW6vnQGptsw3QtA"
+        },
+        "href": "https://api.spotify.com/v1/albums/3saxyjZiW6vnQGptsw3QtA",
+        "id": "3saxyjZiW6vnQGptsw3QtA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737ae9fb8cba090e9b768be14e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027ae9fb8cba090e9b768be14e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517ae9fb8cba090e9b768be14e",
+            "width": 64
+          }
+        ],
+        "name": "Tempesta",
+        "release_date": "2021-02-03",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3saxyjZiW6vnQGptsw3QtA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208608,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITBSF0210004"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1cqHrYSHLd4tUK9fewai8z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1cqHrYSHLd4tUK9fewai8z",
+      "id": "1cqHrYSHLd4tUK9fewai8z",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tempesta",
+      "popularity": 31,
+      "preview_url": "https://p.scdn.co/mp3-preview/048c19a28fea245bd8fcff49a3edd9349a845d09?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1cqHrYSHLd4tUK9fewai8z"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/350vt86FfKiyqxZCxm0mTG"
+        },
+        "href": "https://api.spotify.com/v1/albums/350vt86FfKiyqxZCxm0mTG",
+        "id": "350vt86FfKiyqxZCxm0mTG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b57f4139f75d3cff458e631a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b57f4139f75d3cff458e631a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b57f4139f75d3cff458e631a",
+            "width": 64
+          }
+        ],
+        "name": "Successo",
+        "release_date": "2020-11-13",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:350vt86FfKiyqxZCxm0mTG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156366,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITQHP0200003"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0GFirNAMFtRbE1QwWeIaCO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0GFirNAMFtRbE1QwWeIaCO",
+      "id": "0GFirNAMFtRbE1QwWeIaCO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Successo",
+      "popularity": 28,
+      "preview_url": "https://p.scdn.co/mp3-preview/4f03327cf4d48979bdc354fe789aba7da6bf58d9?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0GFirNAMFtRbE1QwWeIaCO"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6b4Qi6HNBHRHDja7XH0x1S"
+        },
+        "href": "https://api.spotify.com/v1/albums/6b4Qi6HNBHRHDja7XH0x1S",
+        "id": "6b4Qi6HNBHRHDja7XH0x1S",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734407b290b560ebcb78616d62",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024407b290b560ebcb78616d62",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514407b290b560ebcb78616d62",
+            "width": 64
+          }
+        ],
+        "name": "Maledetta",
+        "release_date": "2020-05-28",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6b4Qi6HNBHRHDja7XH0x1S"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198529,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITBSF0200001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7LmM1jxgmxPVOepY5LxhZg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7LmM1jxgmxPVOepY5LxhZg",
+      "id": "7LmM1jxgmxPVOepY5LxhZg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Maledetta",
+      "popularity": 21,
+      "preview_url": "https://p.scdn.co/mp3-preview/05b8d66058e267d0ab0e02a3ed27502df7d5c65c?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7LmM1jxgmxPVOepY5LxhZg"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1BQuXpV3eAwvn84ABQKvt2"
+        },
+        "href": "https://api.spotify.com/v1/albums/1BQuXpV3eAwvn84ABQKvt2",
+        "id": "1BQuXpV3eAwvn84ABQKvt2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f0fb186f155fb4712e419db3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f0fb186f155fb4712e419db3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f0fb186f155fb4712e419db3",
+            "width": 64
+          }
+        ],
+        "name": "Siamo tutti stanchi",
+        "release_date": "2017-11-24",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1BQuXpV3eAwvn84ABQKvt2"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153426,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITG371700202"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Hg5ilTxEZkrSjhhnu4om9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Hg5ilTxEZkrSjhhnu4om9",
+      "id": "0Hg5ilTxEZkrSjhhnu4om9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Che cosa resta",
+      "popularity": 20,
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0Hg5ilTxEZkrSjhhnu4om9"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0vn2mxaY62cpX8I90eMjpW"
+        },
+        "href": "https://api.spotify.com/v1/albums/0vn2mxaY62cpX8I90eMjpW",
+        "id": "0vn2mxaY62cpX8I90eMjpW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732b915db39ad4da4ab1734a16",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022b915db39ad4da4ab1734a16",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512b915db39ad4da4ab1734a16",
+            "width": 64
+          }
+        ],
+        "name": "La giusta distanza",
+        "release_date": "2016-04-08",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0vn2mxaY62cpX8I90eMjpW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265013,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMDA71582791"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6km6AuBW7S2I3PTaME3g9X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6km6AuBW7S2I3PTaME3g9X",
+      "id": "6km6AuBW7S2I3PTaME3g9X",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Non ballerò",
+      "popularity": 20,
+      "preview_url": "https://p.scdn.co/mp3-preview/18691772fc88f491d96a62245d40561440a28372?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6km6AuBW7S2I3PTaME3g9X"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6La2C187QjQpdB1H2AJqIq"
+        },
+        "href": "https://api.spotify.com/v1/albums/6La2C187QjQpdB1H2AJqIq",
+        "id": "6La2C187QjQpdB1H2AJqIq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b2bc49e936e0ffb119c6fa34",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b2bc49e936e0ffb119c6fa34",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b2bc49e936e0ffb119c6fa34",
+            "width": 64
+          }
+        ],
+        "name": "Hollywoo",
+        "release_date": "2020-07-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6La2C187QjQpdB1H2AJqIq"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234184,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITBSF0200002"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Nrdaxz9ESUN3tVty79Ec9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Nrdaxz9ESUN3tVty79Ec9",
+      "id": "2Nrdaxz9ESUN3tVty79Ec9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hollywoo",
+      "popularity": 18,
+      "preview_url": "https://p.scdn.co/mp3-preview/dfa7da12822fd2296e14c0e40c1afa39751187f0?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2Nrdaxz9ESUN3tVty79Ec9"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0vn2mxaY62cpX8I90eMjpW"
+        },
+        "href": "https://api.spotify.com/v1/albums/0vn2mxaY62cpX8I90eMjpW",
+        "id": "0vn2mxaY62cpX8I90eMjpW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732b915db39ad4da4ab1734a16",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022b915db39ad4da4ab1734a16",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512b915db39ad4da4ab1734a16",
+            "width": 64
+          }
+        ],
+        "name": "La giusta distanza",
+        "release_date": "2016-04-08",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0vn2mxaY62cpX8I90eMjpW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210706,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMDA71582795"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5w4QOJ8ZF7xe9dVTgjedrG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5w4QOJ8ZF7xe9dVTgjedrG",
+      "id": "5w4QOJ8ZF7xe9dVTgjedrG",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Che strano rumore",
+      "popularity": 12,
+      "preview_url": "https://p.scdn.co/mp3-preview/aacab88adc427889c242ba5c304636ff3ca0bbe0?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5w4QOJ8ZF7xe9dVTgjedrG"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7iKWiohF2HGuJw6nQclInG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7iKWiohF2HGuJw6nQclInG",
+            "id": "7iKWiohF2HGuJw6nQclInG",
+            "name": "Bryan Senti & Justin Moshkevich Rework 2018",
+            "type": "artist",
+            "uri": "spotify:artist:7iKWiohF2HGuJw6nQclInG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2B989fa4qw7g33ZbIBmdUH"
+        },
+        "href": "https://api.spotify.com/v1/albums/2B989fa4qw7g33ZbIBmdUH",
+        "id": "2B989fa4qw7g33ZbIBmdUH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4ef0edb338ec282f27e505f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4ef0edb338ec282f27e505f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4ef0edb338ec282f27e505f",
+            "width": 64
+          }
+        ],
+        "name": "Nuove Regole",
+        "release_date": "2018-10-05",
+        "release_date_precision": "day",
+        "total_tracks": 4,
+        "type": "album",
+        "uri": "spotify:album:2B989fa4qw7g33ZbIBmdUH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iKWiohF2HGuJw6nQclInG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iKWiohF2HGuJw6nQclInG",
+          "id": "7iKWiohF2HGuJw6nQclInG",
+          "name": "Bryan Senti & Justin Moshkevich Rework 2018",
+          "type": "artist",
+          "uri": "spotify:artist:7iKWiohF2HGuJw6nQclInG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186082,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITG371800125"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1aGiUjfuHqfvC7R0ZegBtm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1aGiUjfuHqfvC7R0ZegBtm",
+      "id": "1aGiUjfuHqfvC7R0ZegBtm",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Questa Città",
+      "popularity": 12,
+      "preview_url": "https://p.scdn.co/mp3-preview/9471b79f7aa08a32fe2c85fdbafaede7cd7069be?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1aGiUjfuHqfvC7R0ZegBtm"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0vn2mxaY62cpX8I90eMjpW"
+        },
+        "href": "https://api.spotify.com/v1/albums/0vn2mxaY62cpX8I90eMjpW",
+        "id": "0vn2mxaY62cpX8I90eMjpW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732b915db39ad4da4ab1734a16",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022b915db39ad4da4ab1734a16",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512b915db39ad4da4ab1734a16",
+            "width": 64
+          }
+        ],
+        "name": "La giusta distanza",
+        "release_date": "2016-04-08",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0vn2mxaY62cpX8I90eMjpW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155520,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMDA71582790"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Bx7Urk1DP4rgyPk3duiz5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Bx7Urk1DP4rgyPk3duiz5",
+      "id": "4Bx7Urk1DP4rgyPk3duiz5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Brividi/lividi",
+      "popularity": 11,
+      "preview_url": "https://p.scdn.co/mp3-preview/1f5fe438d21428c7b950b782b5f73f03d386a5b5?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4Bx7Urk1DP4rgyPk3duiz5"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+            "id": "4QYFjNac8XiU828KjV1oWA",
+            "name": "Giorgieness",
+            "type": "artist",
+            "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7ukPJK64H6zl2XP1TRG3zJ"
+        },
+        "href": "https://api.spotify.com/v1/albums/7ukPJK64H6zl2XP1TRG3zJ",
+        "id": "7ukPJK64H6zl2XP1TRG3zJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27378e500017c8e080ed3f3614d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0278e500017c8e080ed3f3614d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485178e500017c8e080ed3f3614d",
+            "width": 64
+          }
+        ],
+        "name": "K2",
+        "release_date": "2015-06-11",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7ukPJK64H6zl2XP1TRG3zJ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+          "id": "4QYFjNac8XiU828KjV1oWA",
+          "name": "Giorgieness",
+          "type": "artist",
+          "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228850,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITP841500127"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ytfnnNd4WopanrprMRYO4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ytfnnNd4WopanrprMRYO4",
+      "id": "5ytfnnNd4WopanrprMRYO4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "K2",
+      "popularity": 10,
+      "preview_url": "https://p.scdn.co/mp3-preview/1144ca3563e50b6d79caee1d650b89878dfe15bc?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5ytfnnNd4WopanrprMRYO4"
+    }
+  ]
+}

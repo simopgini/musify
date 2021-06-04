@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+  },
+  "followers": {
+    "href": null,
+    "total": 5567496
+  },
+  "genres": [
+    "baroque pop",
+    "pop",
+    "uk alternative pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+  "id": "1moxjboGR7GNWYIMWsRjgG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/fe95ad45a869a8babae165461d26cdaddcab66d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ebab52e3ec0ac61fc2f450aba24c78f083caf5f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/76f10186c31aac8d81ce8e51a25943b8d95ca4fc",
+      "width": 160
+    }
+  ],
+  "name": "Florence + The Machine",
+  "popularity": 79,
+  "type": "artist",
+  "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+}

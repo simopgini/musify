@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+  },
+  "followers": {
+    "href": null,
+    "total": 946156
+  },
+  "genres": [
+    "dutch metal",
+    "gothic metal",
+    "gothic symphonic metal",
+    "power metal",
+    "symphonic metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+  "id": "3hE8S8ohRErocpkY7uJW4a",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba58a41375c116451226503fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a58a41375c116451226503fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a58a41375c116451226503fa",
+      "width": 160
+    }
+  ],
+  "name": "Within Temptation",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+}

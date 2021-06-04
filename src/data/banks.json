@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+  },
+  "followers": {
+    "href": null,
+    "total": 957040
+  },
+  "genres": [
+    "alternative r&b",
+    "art pop",
+    "electropop",
+    "indie poptimism",
+    "pop",
+    "vapor soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+  "id": "2xe8IXgCTpwHE3eA9hTs4n",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/18b753a034aae665dfd164c8ee8e8e81ba5f5e47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/98ca474edcbb8793696a601167de0b5efafec29b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ec7db17137f8a4afcd5bc58f90a2a2e4ff4d45aa",
+      "width": 160
+    }
+  ],
+  "name": "BANKS",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+}

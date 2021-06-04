@@ -1,0 +1,44 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+  },
+  "followers": {
+    "href": null,
+    "total": 546510
+  },
+  "genres": [
+    "alternative dance",
+    "electronica",
+    "microhouse",
+    "minimal techno",
+    "new rave"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+  "id": "2exkZbmNqMKnT8LRWuxWgy",
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/aa28d008f92636cfd4088461e39b783f57eeb0c6",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/04a1d0d490d700b1a6feeacd31db5e5bfe1bc737",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/1d7996e31fb7783c403516db8bd96c5183d29d63",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/e78f4e41879d04b780f6c580c59fab4143f3ebb0",
+      "width": 64
+    }
+  ],
+  "name": "Moderat",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+}

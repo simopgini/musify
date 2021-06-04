@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+  },
+  "followers": {
+    "href": null,
+    "total": 1246664
+  },
+  "genres": [
+    "icelandic indie",
+    "icelandic rock",
+    "modern alternative rock",
+    "modern rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+  "id": "7jdFEYD2LTYjfwxOdlVjmc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ea0426bc99cc1fcfbf45ad26f61fd864629b558c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/2338d49d7c10038e1cde75cb8380cda543c29a66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/62a18ed7c3b888c5acc970ef6bef58390daaadf7",
+      "width": 160
+    }
+  ],
+  "name": "KALEO",
+  "popularity": 77,
+  "type": "artist",
+  "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+}

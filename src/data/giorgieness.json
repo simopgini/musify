@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+  },
+  "followers": {
+    "href": null,
+    "total": 9554
+  },
+  "genres": [
+    "italian indie pop",
+    "milan indie"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4QYFjNac8XiU828KjV1oWA",
+  "id": "4QYFjNac8XiU828KjV1oWA",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/4061405784856e053221e9b1960d5f4881de8899",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/3af36731d5b878d0b9504f1c85336d20741dd1ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/4f7f495a858907d89004dc68292edf881f1ba4a4",
+      "width": 160
+    }
+  ],
+  "name": "Giorgieness",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:4QYFjNac8XiU828KjV1oWA"
+}

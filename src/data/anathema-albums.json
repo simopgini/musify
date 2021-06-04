@@ -1,0 +1,421 @@
+{
+  "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5sQjg0Sz30t506TRAm8nx8"
+      },
+      "href": "https://api.spotify.com/v1/albums/5sQjg0Sz30t506TRAm8nx8",
+      "id": "5sQjg0Sz30t506TRAm8nx8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ff31032ad0b129704e9b124",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ff31032ad0b129704e9b124",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ff31032ad0b129704e9b124",
+          "width": 64
+        }
+      ],
+      "name": "Internal Landscapes (Best of 2008-2018)",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5sQjg0Sz30t506TRAm8nx8"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HAculFU4ScJVhfwXKK0hr"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HAculFU4ScJVhfwXKK0hr",
+          "id": "5HAculFU4ScJVhfwXKK0hr",
+          "name": "Daniel Cavanagh",
+          "type": "artist",
+          "uri": "spotify:artist:5HAculFU4ScJVhfwXKK0hr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3TaLohOU1sGXW8u46zvCVf"
+      },
+      "href": "https://api.spotify.com/v1/albums/3TaLohOU1sGXW8u46zvCVf",
+      "id": "3TaLohOU1sGXW8u46zvCVf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27314e9a74faefde8d1e0a6fa32",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0214e9a74faefde8d1e0a6fa32",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485114e9a74faefde8d1e0a6fa32",
+          "width": 64
+        }
+      ],
+      "name": "Monochrome",
+      "release_date": "2017-10-13",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:3TaLohOU1sGXW8u46zvCVf"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2MXZ5iBdwsSzzlZszRZoTY"
+      },
+      "href": "https://api.spotify.com/v1/albums/2MXZ5iBdwsSzzlZszRZoTY",
+      "id": "2MXZ5iBdwsSzzlZszRZoTY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e8adac520766b14b93514d1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022e8adac520766b14b93514d1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512e8adac520766b14b93514d1",
+          "width": 64
+        }
+      ],
+      "name": "The Optimist",
+      "release_date": "2017-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MXZ5iBdwsSzzlZszRZoTY"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5MtqVNvbhQB2RlhiuFnuVN"
+      },
+      "href": "https://api.spotify.com/v1/albums/5MtqVNvbhQB2RlhiuFnuVN",
+      "id": "5MtqVNvbhQB2RlhiuFnuVN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730cd9e241e5ae14056a6d9a1a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020cd9e241e5ae14056a6d9a1a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510cd9e241e5ae14056a6d9a1a",
+          "width": 64
+        }
+      ],
+      "name": "A Sort of Homecoming",
+      "release_date": "2015-10-30",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5MtqVNvbhQB2RlhiuFnuVN"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3gGg3oqAZcMhjFKDKMNy0j"
+      },
+      "href": "https://api.spotify.com/v1/albums/3gGg3oqAZcMhjFKDKMNy0j",
+      "id": "3gGg3oqAZcMhjFKDKMNy0j",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738bdfbda87e84fe1b6001bb4e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028bdfbda87e84fe1b6001bb4e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518bdfbda87e84fe1b6001bb4e",
+          "width": 64
+        }
+      ],
+      "name": "Resonance 1 & 2",
+      "release_date": "2015-04-17",
+      "release_date_precision": "day",
+      "total_tracks": 27,
+      "type": "album",
+      "uri": "spotify:album:3gGg3oqAZcMhjFKDKMNy0j"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1JO7h4fvqKf2zfED6PA7cb"
+      },
+      "href": "https://api.spotify.com/v1/albums/1JO7h4fvqKf2zfED6PA7cb",
+      "id": "1JO7h4fvqKf2zfED6PA7cb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27307eb94a0cb520cbdf2600ba7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0207eb94a0cb520cbdf2600ba7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485107eb94a0cb520cbdf2600ba7",
+          "width": 64
+        }
+      ],
+      "name": "Distant Satellites",
+      "release_date": "2014-06-06",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1JO7h4fvqKf2zfED6PA7cb"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/78livMFiP8Jlf4z3s7Q4YW"
+      },
+      "href": "https://api.spotify.com/v1/albums/78livMFiP8Jlf4z3s7Q4YW",
+      "id": "78livMFiP8Jlf4z3s7Q4YW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273af3f8841a36997d8ef420f69",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02af3f8841a36997d8ef420f69",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851af3f8841a36997d8ef420f69",
+          "width": 64
+        }
+      ],
+      "name": "Universal",
+      "release_date": "2013-09-23",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:78livMFiP8Jlf4z3s7Q4YW"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Cg7XeUp13Zk5W2kHIVP2f"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Cg7XeUp13Zk5W2kHIVP2f",
+      "id": "6Cg7XeUp13Zk5W2kHIVP2f",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e421d19097d64baf9563a144",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e421d19097d64baf9563a144",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e421d19097d64baf9563a144",
+          "width": 64
+        }
+      ],
+      "name": "Weather Systems",
+      "release_date": "2012-04-16",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6Cg7XeUp13Zk5W2kHIVP2f"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+          "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+          "name": "Anathema",
+          "type": "artist",
+          "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2NeXgLGntWT35hwrQRpNRB"
+      },
+      "href": "https://api.spotify.com/v1/albums/2NeXgLGntWT35hwrQRpNRB",
+      "id": "2NeXgLGntWT35hwrQRpNRB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27317134cb25b30645b00bfec3f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0217134cb25b30645b00bfec3f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485117134cb25b30645b00bfec3f",
+          "width": 64
+        }
+      ],
+      "name": "Falling Deeper",
+      "release_date": "2011-09-13",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2NeXgLGntWT35hwrQRpNRB"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX/albums?offset=20&limit=20&include_groups=album&market=GB",
+  "offset": 0,
+  "previous": null,
+  "total": 42
+}

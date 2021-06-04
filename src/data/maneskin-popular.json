@@ -1,0 +1,764 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        },
+        "href": "https://api.spotify.com/v1/albums/7KF1Ain9mYYlg5M46g0i4A",
+        "id": "7KF1Ain9mYYlg5M46g0i4A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d4483341d2ef9d944e82186",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d4483341d2ef9d944e82186",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d4483341d2ef9d944e82186",
+            "width": 64
+          }
+        ],
+        "name": "Teatro d'ira - Vol. I",
+        "release_date": "2021-03-19",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194786,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "ITB002100112"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/776AftMmFFAWUIEAb3lHhw",
+      "id": "776AftMmFFAWUIEAb3lHhw",
+      "is_local": false,
+      "is_playable": true,
+      "name": "ZITTI E BUONI",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/390d5808ce603ca425eb9a3cdf5629bdaa999950?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        },
+        "href": "https://api.spotify.com/v1/albums/7KF1Ain9mYYlg5M46g0i4A",
+        "id": "7KF1Ain9mYYlg5M46g0i4A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d4483341d2ef9d944e82186",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d4483341d2ef9d944e82186",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d4483341d2ef9d944e82186",
+            "width": 64
+          }
+        ],
+        "name": "Teatro d'ira - Vol. I",
+        "release_date": "2021-03-19",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 300413,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB002100113"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7HMz8o0m7ASQ3ImFPfhWTY",
+      "id": "7HMz8o0m7ASQ3ImFPfhWTY",
+      "is_local": false,
+      "is_playable": true,
+      "name": "CORALINE",
+      "popularity": 67,
+      "preview_url": "https://p.scdn.co/mp3-preview/cfadd01da669945acce572e06b18eb20db9abf4e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7HMz8o0m7ASQ3ImFPfhWTY"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        },
+        "href": "https://api.spotify.com/v1/albums/7KF1Ain9mYYlg5M46g0i4A",
+        "id": "7KF1Ain9mYYlg5M46g0i4A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d4483341d2ef9d944e82186",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d4483341d2ef9d944e82186",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d4483341d2ef9d944e82186",
+            "width": 64
+          }
+        ],
+        "name": "Teatro d'ira - Vol. I",
+        "release_date": "2021-03-19",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173346,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB002100115"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4pt5fDVTg5GhEvEtlz9dKk",
+      "id": "4pt5fDVTg5GhEvEtlz9dKk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "I WANNA BE YOUR SLAVE",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/e5431549715f17327e146e5c9501bf86d89ccd77?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
+        },
+        "href": "https://api.spotify.com/v1/albums/44a7Wk3Jh2JGVhjcFYWozj",
+        "id": "44a7Wk3Jh2JGVhjcFYWozj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dbc892b8194e35ca3524e767",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+            "width": 64
+          }
+        ],
+        "name": "Il ballo della vita",
+        "release_date": "2018-10-26",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:44a7Wk3Jh2JGVhjcFYWozj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230666,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB001800483"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3590AAEoqH50z4UmhMIY85",
+      "id": "3590AAEoqH50z4UmhMIY85",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Torna a casa",
+      "popularity": 64,
+      "preview_url": "https://p.scdn.co/mp3-preview/9cde66768df5a5e11193280f552f89d3b381962a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3590AAEoqH50z4UmhMIY85"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        },
+        "href": "https://api.spotify.com/v1/albums/7KF1Ain9mYYlg5M46g0i4A",
+        "id": "7KF1Ain9mYYlg5M46g0i4A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d4483341d2ef9d944e82186",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d4483341d2ef9d944e82186",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d4483341d2ef9d944e82186",
+            "width": 64
+          }
+        ],
+        "name": "Teatro d'ira - Vol. I",
+        "release_date": "2021-03-19",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253586,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB002000559"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Vfo6O3hk38vDcSpazNo3p",
+      "id": "6Vfo6O3hk38vDcSpazNo3p",
+      "is_local": false,
+      "is_playable": true,
+      "name": "VENT'ANNI",
+      "popularity": 61,
+      "preview_url": "https://p.scdn.co/mp3-preview/3b34f4916ae354f311f4c40a56bf93ea55785f60?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6Vfo6O3hk38vDcSpazNo3p"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
+        },
+        "href": "https://api.spotify.com/v1/albums/44a7Wk3Jh2JGVhjcFYWozj",
+        "id": "44a7Wk3Jh2JGVhjcFYWozj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dbc892b8194e35ca3524e767",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+            "width": 64
+          }
+        ],
+        "name": "Il ballo della vita",
+        "release_date": "2018-10-26",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:44a7Wk3Jh2JGVhjcFYWozj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 157880,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB001800090"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1aX0Ki80LFzzhqxqRlqbAV",
+      "id": "1aX0Ki80LFzzhqxqRlqbAV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Morirò da Re",
+      "popularity": 63,
+      "preview_url": "https://p.scdn.co/mp3-preview/63e92dd9136debcf611d9545436ce591e97af6ed?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1aX0Ki80LFzzhqxqRlqbAV"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
+        },
+        "href": "https://api.spotify.com/v1/albums/44a7Wk3Jh2JGVhjcFYWozj",
+        "id": "44a7Wk3Jh2JGVhjcFYWozj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dbc892b8194e35ca3524e767",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+            "width": 64
+          }
+        ],
+        "name": "Il ballo della vita",
+        "release_date": "2018-10-26",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:44a7Wk3Jh2JGVhjcFYWozj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 126706,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB001800484"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36ONZ2CvV8KsLPapNPGTqa",
+      "id": "36ONZ2CvV8KsLPapNPGTqa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "L'altra dimensione",
+      "popularity": 61,
+      "preview_url": "https://p.scdn.co/mp3-preview/73ed672011c4998da1c8a8a5a160c9932e003967?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:36ONZ2CvV8KsLPapNPGTqa"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        },
+        "href": "https://api.spotify.com/v1/albums/7KF1Ain9mYYlg5M46g0i4A",
+        "id": "7KF1Ain9mYYlg5M46g0i4A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d4483341d2ef9d944e82186",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d4483341d2ef9d944e82186",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d4483341d2ef9d944e82186",
+            "width": 64
+          }
+        ],
+        "name": "Teatro d'ira - Vol. I",
+        "release_date": "2021-03-19",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209786,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB002100118"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2l7V3AuTxGuswKjGovaSEv",
+      "id": "2l7V3AuTxGuswKjGovaSEv",
+      "is_local": false,
+      "is_playable": true,
+      "name": "LA PAURA DEL BUIO",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/322df9c61dab59a2edafdd99e64758d030dd98e4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2l7V3AuTxGuswKjGovaSEv"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+        },
+        "href": "https://api.spotify.com/v1/albums/2qJw6w5XwQO0PQlSWPu7Tw",
+        "id": "2qJw6w5XwQO0PQlSWPu7Tw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fa0ab3a28b5c52d8a5f97045",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
+            "width": 64
+          }
+        ],
+        "name": "Chosen",
+        "release_date": "2017-12-08",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162013,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB001700843"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2lDgdWIGLYuk74pDeRPgPF",
+      "id": "2lDgdWIGLYuk74pDeRPgPF",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Chosen",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/334f972d3d0dbb57774e25744acc71c1fc47d270?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2lDgdWIGLYuk74pDeRPgPF"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+            "id": "0lAWpj5szCSwM4rUMHYmrr",
+            "name": "Måneskin",
+            "type": "artist",
+            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        },
+        "href": "https://api.spotify.com/v1/albums/7KF1Ain9mYYlg5M46g0i4A",
+        "id": "7KF1Ain9mYYlg5M46g0i4A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d4483341d2ef9d944e82186",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023d4483341d2ef9d944e82186",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513d4483341d2ef9d944e82186",
+            "width": 64
+          }
+        ],
+        "name": "Teatro d'ira - Vol. I",
+        "release_date": "2021-03-19",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 165786,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB002100114"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ITV1k9laGrWUpagayejMQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ITV1k9laGrWUpagayejMQ",
+      "id": "1ITV1k9laGrWUpagayejMQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "LIVIDI SUI GOMITI",
+      "popularity": 58,
+      "preview_url": "https://p.scdn.co/mp3-preview/c941db750132f67c1a557b25e0f3abdcd67933f7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1ITV1k9laGrWUpagayejMQ"
+    }
+  ]
+}

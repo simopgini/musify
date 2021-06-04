@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+  },
+  "followers": {
+    "href": null,
+    "total": 628845
+  },
+  "genres": [
+    "modern alternative rock",
+    "modern rock",
+    "rock",
+    "scottish rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+  "id": "1km0R7wy712AzLkA1WjKET",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/dd48385cbd75d4689ba2e01a30acce193862387f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/1de476ee030521ba88b4727fb8f44602e0bd8da2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/540fb57c9fe188607e75a5484de29ac39d30d41f",
+      "width": 160
+    }
+  ],
+  "name": "Biffy Clyro",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+}

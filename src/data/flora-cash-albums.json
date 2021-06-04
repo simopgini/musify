@@ -1,0 +1,143 @@
+{
+  "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3iRlHLYZuJxxTDGRmD2DzI"
+      },
+      "href": "https://api.spotify.com/v1/albums/3iRlHLYZuJxxTDGRmD2DzI",
+      "id": "3iRlHLYZuJxxTDGRmD2DzI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b6b6ebdbd4d3041acb56b7b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029b6b6ebdbd4d3041acb56b7b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519b6b6ebdbd4d3041acb56b7b",
+          "width": 64
+        }
+      ],
+      "name": "Baby, It's Okay",
+      "release_date": "2020-03-06",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3iRlHLYZuJxxTDGRmD2DzI"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4cyvsgs2Sx5JeVqOkXZdSe"
+      },
+      "href": "https://api.spotify.com/v1/albums/4cyvsgs2Sx5JeVqOkXZdSe",
+      "id": "4cyvsgs2Sx5JeVqOkXZdSe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737662da5f0d033bd2d676423b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027662da5f0d033bd2d676423b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517662da5f0d033bd2d676423b",
+          "width": 64
+        }
+      ],
+      "name": "Nothing Lasts Forever (And It's Fine)",
+      "release_date": "2017-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:4cyvsgs2Sx5JeVqOkXZdSe"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
+      },
+      "href": "https://api.spotify.com/v1/albums/409EdmKQVMvhRHpJSHBnJ3",
+      "id": "409EdmKQVMvhRHpJSHBnJ3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a3e32a69b603c294a884fb9f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a3e32a69b603c294a884fb9f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a3e32a69b603c294a884fb9f",
+          "width": 64
+        }
+      ],
+      "name": "Can Summer Love Last Forever?",
+      "release_date": "2016-03-18",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:409EdmKQVMvhRHpJSHBnJ3"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 5
+}

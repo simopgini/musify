@@ -1,0 +1,764 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        },
+        "href": "https://api.spotify.com/v1/albums/4he4SQup02hEIQdwhZlZlk",
+        "id": "4he4SQup02hEIQdwhZlZlk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f793a842c1642b09a768a63b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b",
+            "width": 64
+          }
+        ],
+        "name": "A/B",
+        "release_date": "2016-06-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213706,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21502122"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0y1QJc3SJVPKJ1OvFmFqe6",
+      "id": "0y1QJc3SJVPKJ1OvFmFqe6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Way down We Go",
+      "popularity": 80,
+      "preview_url": "https://p.scdn.co/mp3-preview/d98c7057adac754607c1a2ab8c72113c3e7a2338?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0y1QJc3SJVPKJ1OvFmFqe6"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        },
+        "href": "https://api.spotify.com/v1/albums/4he4SQup02hEIQdwhZlZlk",
+        "id": "4he4SQup02hEIQdwhZlZlk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f793a842c1642b09a768a63b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b",
+            "width": 64
+          }
+        ],
+        "name": "A/B",
+        "release_date": "2016-06-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269893,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ISV441421101"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0QQIhT6PtJ5glyn4HKNKQ6",
+      "id": "0QQIhT6PtJ5glyn4HKNKQ6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "All the Pretty Girls",
+      "popularity": 69,
+      "preview_url": "https://p.scdn.co/mp3-preview/b5ad5854d1f94a0b63f8456a1f0a75037687f355?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+        },
+        "href": "https://api.spotify.com/v1/albums/1ZuNUNl8jvYmW4w1lR2CW3",
+        "id": "1ZuNUNl8jvYmW4w1lR2CW3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735956beefe0c79f85aec384b6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025956beefe0c79f85aec384b6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6",
+            "width": 64
+          }
+        ],
+        "name": "Surface Sounds",
+        "release_date": "2021-04-23",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284798,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT22000403"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4aPeeN8IYOCMNBGI0p7169",
+      "id": "4aPeeN8IYOCMNBGI0p7169",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hey Gringo",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/9d95abb6aa14d6e21e1f328d247622e216ace9e1?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        },
+        "href": "https://api.spotify.com/v1/albums/4he4SQup02hEIQdwhZlZlk",
+        "id": "4he4SQup02hEIQdwhZlZlk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f793a842c1642b09a768a63b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b",
+            "width": 64
+          }
+        ],
+        "name": "A/B",
+        "release_date": "2016-06-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 377000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21600403"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1dX6oGAG5PaexuPj29PsYd",
+      "id": "1dX6oGAG5PaexuPj29PsYd",
+      "is_local": false,
+      "is_playable": true,
+      "name": "I Can't Go on Without You",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/112f26516507fde0902906d028deefadff55962e?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        },
+        "href": "https://api.spotify.com/v1/albums/4he4SQup02hEIQdwhZlZlk",
+        "id": "4he4SQup02hEIQdwhZlZlk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f793a842c1642b09a768a63b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b",
+            "width": 64
+          }
+        ],
+        "name": "A/B",
+        "release_date": "2016-06-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234240,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21601267"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Tr5G2mE56eLUGvCaXRM8I",
+      "id": "0Tr5G2mE56eLUGvCaXRM8I",
+      "is_local": false,
+      "is_playable": true,
+      "name": "No Good",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/d103413df36094cb426289881acc61e9a0d7fd94?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0Tr5G2mE56eLUGvCaXRM8I"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+        },
+        "href": "https://api.spotify.com/v1/albums/1ZuNUNl8jvYmW4w1lR2CW3",
+        "id": "1ZuNUNl8jvYmW4w1lR2CW3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735956beefe0c79f85aec384b6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025956beefe0c79f85aec384b6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6",
+            "width": 64
+          }
+        ],
+        "name": "Surface Sounds",
+        "release_date": "2021-04-23",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222316,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USAT22001314"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2C4jYVZId6mxISa3HrBvGM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2C4jYVZId6mxISa3HrBvGM",
+      "id": "2C4jYVZId6mxISa3HrBvGM",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Skinny",
+      "popularity": 61,
+      "preview_url": "https://p.scdn.co/mp3-preview/37a23566734cd4c4932522d03bd493895c893647?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2C4jYVZId6mxISa3HrBvGM"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        },
+        "href": "https://api.spotify.com/v1/albums/4he4SQup02hEIQdwhZlZlk",
+        "id": "4he4SQup02hEIQdwhZlZlk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f793a842c1642b09a768a63b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b",
+            "width": 64
+          }
+        ],
+        "name": "A/B",
+        "release_date": "2016-06-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245960,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21601409"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0lwUIYJfWGB8qUEAJtYfb6",
+      "id": "0lwUIYJfWGB8qUEAJtYfb6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Broken Bones",
+      "popularity": 64,
+      "preview_url": "https://p.scdn.co/mp3-preview/3538ddd5d5a3363b2105aeb92c1a592a96b83f90?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0lwUIYJfWGB8qUEAJtYfb6"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+        },
+        "href": "https://api.spotify.com/v1/albums/1ZuNUNl8jvYmW4w1lR2CW3",
+        "id": "1ZuNUNl8jvYmW4w1lR2CW3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735956beefe0c79f85aec384b6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025956beefe0c79f85aec384b6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6",
+            "width": 64
+          }
+        ],
+        "name": "Surface Sounds",
+        "release_date": "2021-04-23",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265558,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21907643"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3BsoE7SgveujY2jeV2rVRw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3BsoE7SgveujY2jeV2rVRw",
+      "id": "3BsoE7SgveujY2jeV2rVRw",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Break My Baby",
+      "popularity": 58,
+      "preview_url": "https://p.scdn.co/mp3-preview/bda0e9b535765547495d7361a0b89b07d1068ea6?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3BsoE7SgveujY2jeV2rVRw"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        },
+        "href": "https://api.spotify.com/v1/albums/4he4SQup02hEIQdwhZlZlk",
+        "id": "4he4SQup02hEIQdwhZlZlk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f793a842c1642b09a768a63b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f793a842c1642b09a768a63b",
+            "width": 64
+          }
+        ],
+        "name": "A/B",
+        "release_date": "2016-06-10",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218600,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21601411"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7d9sZF7jmepe2EYdETlNWK",
+      "id": "7d9sZF7jmepe2EYdETlNWK",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hot Blood",
+      "popularity": 63,
+      "preview_url": "https://p.scdn.co/mp3-preview/1ae2528502d59147cfe306b3746c406c23de70e3?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7d9sZF7jmepe2EYdETlNWK"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+            "id": "7jdFEYD2LTYjfwxOdlVjmc",
+            "name": "KALEO",
+            "type": "artist",
+            "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+        },
+        "href": "https://api.spotify.com/v1/albums/1ZuNUNl8jvYmW4w1lR2CW3",
+        "id": "1ZuNUNl8jvYmW4w1lR2CW3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735956beefe0c79f85aec384b6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025956beefe0c79f85aec384b6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6",
+            "width": 64
+          }
+        ],
+        "name": "Surface Sounds",
+        "release_date": "2021-04-23",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212392,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21907642"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7gxohd4hHPmDIvE9HohJsI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7gxohd4hHPmDIvE9HohJsI",
+      "id": "7gxohd4hHPmDIvE9HohJsI",
+      "is_local": false,
+      "is_playable": true,
+      "name": "I Want More",
+      "popularity": 56,
+      "preview_url": "https://p.scdn.co/mp3-preview/5b7ef3d80521ff95fe537bcbce58ad548ff5af14?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7gxohd4hHPmDIvE9HohJsI"
+    }
+  ]
+}

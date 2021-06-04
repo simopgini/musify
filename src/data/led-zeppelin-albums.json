@@ -1,0 +1,588 @@
+{
+  "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI"
+      },
+      "href": "https://api.spotify.com/v1/albums/6VH2op0GKIl3WNTbZmmcmI",
+      "id": "6VH2op0GKIl3WNTbZmmcmI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ce69f6900fa18dd689d2d45b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ce69f6900fa18dd689d2d45b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ce69f6900fa18dd689d2d45b",
+          "width": 64
+        }
+      ],
+      "name": "The Complete BBC Sessions",
+      "release_date": "2016-09-16",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:6VH2op0GKIl3WNTbZmmcmI"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0kTe1sQd9yhDsdG2Zth7X6"
+      },
+      "href": "https://api.spotify.com/v1/albums/0kTe1sQd9yhDsdG2Zth7X6",
+      "id": "0kTe1sQd9yhDsdG2Zth7X6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27354bea3780cb998f903356012",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0254bea3780cb998f903356012",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485154bea3780cb998f903356012",
+          "width": 64
+        }
+      ],
+      "name": "Celebration Day",
+      "release_date": "2012-11-19",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0kTe1sQd9yhDsdG2Zth7X6"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
+      },
+      "href": "https://api.spotify.com/v1/albums/4wExFfncaUIqSgoxnqa3Eh",
+      "id": "4wExFfncaUIqSgoxnqa3Eh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322f1b6c28ce5735646b2e569",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222f1b6c28ce5735646b2e569",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122f1b6c28ce5735646b2e569",
+          "width": 64
+        }
+      ],
+      "name": "Mothership",
+      "release_date": "2007",
+      "release_date_precision": "year",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:4wExFfncaUIqSgoxnqa3Eh"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3otvl9PN3kOgk5uwAh1CBL"
+      },
+      "href": "https://api.spotify.com/v1/albums/3otvl9PN3kOgk5uwAh1CBL",
+      "id": "3otvl9PN3kOgk5uwAh1CBL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737befecf74a075298cc93766c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027befecf74a075298cc93766c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517befecf74a075298cc93766c",
+          "width": 64
+        }
+      ],
+      "name": "How the West Was Won (Remaster)",
+      "release_date": "2003-05-27",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:3otvl9PN3kOgk5uwAh1CBL"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/228mANuRrV20jS5DCA0eER"
+      },
+      "href": "https://api.spotify.com/v1/albums/228mANuRrV20jS5DCA0eER",
+      "id": "228mANuRrV20jS5DCA0eER",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27303e31c6840aa343b73bbfe84",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0203e31c6840aa343b73bbfe84",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485103e31c6840aa343b73bbfe84",
+          "width": 64
+        }
+      ],
+      "name": "Coda (Remaster)",
+      "release_date": "1982-11-19",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:228mANuRrV20jS5DCA0eER"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+      },
+      "href": "https://api.spotify.com/v1/albums/1W5CtQ7Ng0kP3lXyz7PIT2",
+      "id": "1W5CtQ7Ng0kP3lXyz7PIT2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27315aa25b0b3b972a7be623605",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0215aa25b0b3b972a7be623605",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485115aa25b0b3b972a7be623605",
+          "width": 64
+        }
+      ],
+      "name": "In Through the out Door (Remaster)",
+      "release_date": "1979-08-15",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:1W5CtQ7Ng0kP3lXyz7PIT2"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ui4S0TZghkf1d1Wz0oWpk",
+      "id": "0ui4S0TZghkf1d1Wz0oWpk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731ac4670157a26949de3ba875",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021ac4670157a26949de3ba875",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511ac4670157a26949de3ba875",
+          "width": 64
+        }
+      ],
+      "name": "The Song Remains the Same (Remaster)",
+      "release_date": "1976-10-22",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0ui4S0TZghkf1d1Wz0oWpk"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u"
+      },
+      "href": "https://api.spotify.com/v1/albums/3uhD8hNpb0m3iIZ18RHH5u",
+      "id": "3uhD8hNpb0m3iIZ18RHH5u",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27327f6c518a8e36d45b5e7d95e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0227f6c518a8e36d45b5e7d95e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485127f6c518a8e36d45b5e7d95e",
+          "width": 64
+        }
+      ],
+      "name": "Presence (Remaster)",
+      "release_date": "1976-03-31",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:3uhD8hNpb0m3iIZ18RHH5u"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Q7cPyiP8cMIlUEHAqeYfd",
+      "id": "4Q7cPyiP8cMIlUEHAqeYfd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735273ac7ada6725bc36a2bcd0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025273ac7ada6725bc36a2bcd0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515273ac7ada6725bc36a2bcd0",
+          "width": 64
+        }
+      ],
+      "name": "Physical Graffiti (Remaster)",
+      "release_date": "1975-02-24",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4Q7cPyiP8cMIlUEHAqeYfd"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "href": "https://api.spotify.com/v1/albums/0GqpoHJREPp0iuXK3HzrHk",
+      "id": "0GqpoHJREPp0iuXK3HzrHk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731aa47e71c4edfeaddb65cd54",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021aa47e71c4edfeaddb65cd54",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511aa47e71c4edfeaddb65cd54",
+          "width": 64
+        }
+      ],
+      "name": "Houses of the Holy (Remaster)",
+      "release_date": "1973-03-28",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:0GqpoHJREPp0iuXK3HzrHk"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "href": "https://api.spotify.com/v1/albums/44Ig8dzqOkvkGDzaUof9lK",
+      "id": "44Ig8dzqOkvkGDzaUof9lK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8a11e48c91a982d086afc69",
+          "width": 64
+        }
+      ],
+      "name": "Led Zeppelin IV (Deluxe Edition)",
+      "release_date": "1971-11-08",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:44Ig8dzqOkvkGDzaUof9lK"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
+      },
+      "href": "https://api.spotify.com/v1/albums/5EyIDBAqhnlkAHqvPRwdbX",
+      "id": "5EyIDBAqhnlkAHqvPRwdbX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734509204d0860cc0cc67e83dc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024509204d0860cc0cc67e83dc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514509204d0860cc0cc67e83dc",
+          "width": 64
+        }
+      ],
+      "name": "Led Zeppelin IV (Remaster)",
+      "release_date": "1971-11-08",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:5EyIDBAqhnlkAHqvPRwdbX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
+          "type": "artist",
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3EaQYGDFE96xbOPxkJNXfX"
+      },
+      "href": "https://api.spotify.com/v1/albums/3EaQYGDFE96xbOPxkJNXfX",
+      "id": "3EaQYGDFE96xbOPxkJNXfX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b2d395bb14a99c7cf0d8079e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b2d395bb14a99c7cf0d8079e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b2d395bb14a99c7cf0d8079e",
+          "width": 64
+        }
+      ],
+      "name": "Led Zeppelin III (Deluxe Edition)",
+      "release_date": "1970-10-05",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:3EaQYGDFE96xbOPxkJNXfX"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp/albums?offset=20&limit=20&include_groups=album&market=GB",
+  "offset": 0,
+  "previous": null,
+  "total": 31
+}

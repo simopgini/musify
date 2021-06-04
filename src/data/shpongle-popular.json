@@ -1,0 +1,794 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6kXYzl5HwGgFxsX1M8aTKp"
+        },
+        "href": "https://api.spotify.com/v1/albums/6kXYzl5HwGgFxsX1M8aTKp",
+        "id": "6kXYzl5HwGgFxsX1M8aTKp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27381beb382d066c4598f25f530",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0281beb382d066c4598f25f530",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485181beb382d066c4598f25f530",
+            "width": 64
+          }
+        ],
+        "name": "Ineffable Mysteries From Shpongleland",
+        "release_date": "2009-10-28",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:6kXYzl5HwGgFxsX1M8aTKp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 384226,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBBMP0900532"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RNGOlGqKBawkqLfdJqiqA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RNGOlGqKBawkqLfdJqiqA",
+      "id": "5RNGOlGqKBawkqLfdJqiqA",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Nothing Is Something Worth Doing",
+      "popularity": 44,
+      "preview_url": "https://p.scdn.co/mp3-preview/16c79cb35f44f4d8c785f1573d5b52dac3bb3ea3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5RNGOlGqKBawkqLfdJqiqA"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/49TbbgPIGwnroFSI84jk60"
+        },
+        "href": "https://api.spotify.com/v1/albums/49TbbgPIGwnroFSI84jk60",
+        "id": "49TbbgPIGwnroFSI84jk60",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fdd03771a608eb0153044e7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fdd03771a608eb0153044e7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fdd03771a608eb0153044e7",
+            "width": 64
+          }
+        ],
+        "name": "Codex VI",
+        "release_date": "2017-10-30",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:49TbbgPIGwnroFSI84jk60"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 135786,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBBMP1200627"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QMYMJtTxjk4MxM4P0Z2IK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5QMYMJtTxjk4MxM4P0Z2IK",
+      "id": "5QMYMJtTxjk4MxM4P0Z2IK",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hammock Therapy",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/141cfee3920d6a506b4807e96bd660b1ea24b45f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5QMYMJtTxjk4MxM4P0Z2IK"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/49TbbgPIGwnroFSI84jk60"
+        },
+        "href": "https://api.spotify.com/v1/albums/49TbbgPIGwnroFSI84jk60",
+        "id": "49TbbgPIGwnroFSI84jk60",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736fdd03771a608eb0153044e7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026fdd03771a608eb0153044e7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516fdd03771a608eb0153044e7",
+            "width": 64
+          }
+        ],
+        "name": "Codex VI",
+        "release_date": "2017-10-30",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:49TbbgPIGwnroFSI84jk60"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 535653,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBBMP1200624"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2U67EmIoFt4YGBuJHJ6lmE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2U67EmIoFt4YGBuJHJ6lmE",
+      "id": "2U67EmIoFt4YGBuJHJ6lmE",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Strange Planet",
+      "popularity": 41,
+      "preview_url": "https://p.scdn.co/mp3-preview/f12b6646514ff5b21488ab2e0bc5e791a58446c0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2U67EmIoFt4YGBuJHJ6lmE"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7fAOqI4aJxx5oTeCMLPONf"
+        },
+        "href": "https://api.spotify.com/v1/albums/7fAOqI4aJxx5oTeCMLPONf",
+        "id": "7fAOqI4aJxx5oTeCMLPONf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b87f823d5609281a1bd7c590",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b87f823d5609281a1bd7c590",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b87f823d5609281a1bd7c590",
+            "width": 64
+          }
+        ],
+        "name": "Are You Shpongled?",
+        "release_date": "1998-10-01",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:7fAOqI4aJxx5oTeCMLPONf"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 620333,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USA2P0300011"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5z0QLEpkbUh00SevSuYxOh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5z0QLEpkbUh00SevSuYxOh",
+      "id": "5z0QLEpkbUh00SevSuYxOh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Divine Moments Of Truth",
+      "popularity": 41,
+      "preview_url": "https://p.scdn.co/mp3-preview/43f79aef91681848abc6f86f6c5d4f6c23f6c9ff?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5z0QLEpkbUh00SevSuYxOh"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1R2rlgjB2juIPOplpvCQH6"
+        },
+        "href": "https://api.spotify.com/v1/albums/1R2rlgjB2juIPOplpvCQH6",
+        "id": "1R2rlgjB2juIPOplpvCQH6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e33e9f4f9887e8ab30763823",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e33e9f4f9887e8ab30763823",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e33e9f4f9887e8ab30763823",
+            "width": 64
+          }
+        ],
+        "name": "Carnival of Peculiarities",
+        "release_date": "2021-03-05",
+        "release_date_precision": "day",
+        "total_tracks": 3,
+        "type": "album",
+        "uri": "spotify:album:1R2rlgjB2juIPOplpvCQH6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 397419,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBBMP1200672"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VJvz90LE63G5tJMcmkNim"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1VJvz90LE63G5tJMcmkNim",
+      "id": "1VJvz90LE63G5tJMcmkNim",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dr. Vinklestein Says",
+      "popularity": 41,
+      "preview_url": "https://p.scdn.co/mp3-preview/6c881d5ea9bf15d93145a81a1255db17193fd457?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1VJvz90LE63G5tJMcmkNim"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1cUsIbetAn58R8R5fs7F4O"
+            },
+            "href": "https://api.spotify.com/v1/artists/1cUsIbetAn58R8R5fs7F4O",
+            "id": "1cUsIbetAn58R8R5fs7F4O",
+            "name": "Gunslinger",
+            "type": "artist",
+            "uri": "spotify:artist:1cUsIbetAn58R8R5fs7F4O"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4TcFHEJoJkvhqpIhR1PBNo"
+        },
+        "href": "https://api.spotify.com/v1/albums/4TcFHEJoJkvhqpIhR1PBNo",
+        "id": "4TcFHEJoJkvhqpIhR1PBNo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737f4f82e4bed5c5fe38fc4efd",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027f4f82e4bed5c5fe38fc4efd",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517f4f82e4bed5c5fe38fc4efd",
+            "width": 64
+          }
+        ],
+        "name": "Dreamcatcher (Gms Remix)",
+        "release_date": "2016-12-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4TcFHEJoJkvhqpIhR1PBNo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cUsIbetAn58R8R5fs7F4O"
+          },
+          "href": "https://api.spotify.com/v1/artists/1cUsIbetAn58R8R5fs7F4O",
+          "id": "1cUsIbetAn58R8R5fs7F4O",
+          "name": "Gunslinger",
+          "type": "artist",
+          "uri": "spotify:artist:1cUsIbetAn58R8R5fs7F4O"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1jLsr1sNO2WshuzmSibSIt",
+          "id": "1jLsr1sNO2WshuzmSibSIt",
+          "name": "GMS",
+          "type": "artist",
+          "uri": "spotify:artist:1jLsr1sNO2WshuzmSibSIt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 370746,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DKZVA1661204"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6KXz6BgmtiLD2Uw1e0nDvR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6KXz6BgmtiLD2Uw1e0nDvR",
+      "id": "6KXz6BgmtiLD2Uw1e0nDvR",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dreamcatcher - Gms Remix",
+      "popularity": 39,
+      "preview_url": "https://p.scdn.co/mp3-preview/2e6f304b95ea3e8f60e4d9b88b44c451c328588a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6KXz6BgmtiLD2Uw1e0nDvR"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/04T2dbDrecHZBs3WFdFOpt"
+        },
+        "href": "https://api.spotify.com/v1/albums/04T2dbDrecHZBs3WFdFOpt",
+        "id": "04T2dbDrecHZBs3WFdFOpt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c8b7a789f217ffe8b043644d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c8b7a789f217ffe8b043644d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c8b7a789f217ffe8b043644d",
+            "width": 64
+          }
+        ],
+        "name": "Museum of Consciousness",
+        "release_date": "2013-07-29",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:04T2dbDrecHZBs3WFdFOpt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 476308,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBBMP1200593"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gOlANa2VJ7shYJsYg1Wvk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0gOlANa2VJ7shYJsYg1Wvk",
+      "id": "0gOlANa2VJ7shYJsYg1Wvk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Brain in a Fish Tank",
+      "popularity": 39,
+      "preview_url": "https://p.scdn.co/mp3-preview/c5b6f9026a4ee2d4e9c99da07e1a5405b8795116?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0gOlANa2VJ7shYJsYg1Wvk"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/04T2dbDrecHZBs3WFdFOpt"
+        },
+        "href": "https://api.spotify.com/v1/albums/04T2dbDrecHZBs3WFdFOpt",
+        "id": "04T2dbDrecHZBs3WFdFOpt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c8b7a789f217ffe8b043644d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c8b7a789f217ffe8b043644d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c8b7a789f217ffe8b043644d",
+            "width": 64
+          }
+        ],
+        "name": "Museum of Consciousness",
+        "release_date": "2013-07-29",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:04T2dbDrecHZBs3WFdFOpt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 557266,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBBMP1200595"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4WMhWJuNn8CassfTqaXXh7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4WMhWJuNn8CassfTqaXXh7",
+      "id": "4WMhWJuNn8CassfTqaXXh7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Juggling Molecules",
+      "popularity": 37,
+      "preview_url": "https://p.scdn.co/mp3-preview/9e24dca3c1d6fae312a75e893887a40155aac78e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4WMhWJuNn8CassfTqaXXh7"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3ir03UF7JZYVajLxKsXNtg"
+        },
+        "href": "https://api.spotify.com/v1/albums/3ir03UF7JZYVajLxKsXNtg",
+        "id": "3ir03UF7JZYVajLxKsXNtg",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ccbf2c32c94e95c90566883",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025ccbf2c32c94e95c90566883",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515ccbf2c32c94e95c90566883",
+            "width": 64
+          }
+        ],
+        "name": "Tales of the Inexpressible (2018 Remaster)",
+        "release_date": "2001",
+        "release_date_precision": "year",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:3ir03UF7JZYVajLxKsXNtg"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 493426,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USA2P0300503"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3u4F8r9IXyeWM6J7kx6nvQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3u4F8r9IXyeWM6J7kx6nvQ",
+      "id": "3u4F8r9IXyeWM6J7kx6nvQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dorset Perception - Remastered",
+      "popularity": 31,
+      "preview_url": "https://p.scdn.co/mp3-preview/946d1a70da3207fbfbb1b1c754e90e17616c8451?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3u4F8r9IXyeWM6J7kx6nvQ"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+            "id": "0m5XJwKGYyUjd3VMfcINCQ",
+            "name": "Shpongle",
+            "type": "artist",
+            "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1R2rlgjB2juIPOplpvCQH6"
+        },
+        "href": "https://api.spotify.com/v1/albums/1R2rlgjB2juIPOplpvCQH6",
+        "id": "1R2rlgjB2juIPOplpvCQH6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e33e9f4f9887e8ab30763823",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e33e9f4f9887e8ab30763823",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e33e9f4f9887e8ab30763823",
+            "width": 64
+          }
+        ],
+        "name": "Carnival of Peculiarities",
+        "release_date": "2021-03-05",
+        "release_date_precision": "day",
+        "total_tracks": 3,
+        "type": "album",
+        "uri": "spotify:album:1R2rlgjB2juIPOplpvCQH6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+          "id": "0m5XJwKGYyUjd3VMfcINCQ",
+          "name": "Shpongle",
+          "type": "artist",
+          "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 552996,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBBMP1200670"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ox8rQ49FbRBPHf1dSfpjo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ox8rQ49FbRBPHf1dSfpjo",
+      "id": "2ox8rQ49FbRBPHf1dSfpjo",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Mycelium Labyrinth",
+      "popularity": 36,
+      "preview_url": "https://p.scdn.co/mp3-preview/5c8013843fb55a08dbdefb1ce8b211ba5a389eed?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2ox8rQ49FbRBPHf1dSfpjo"
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
+        },
+        "href": "https://api.spotify.com/v1/albums/0QMZ4b8IHNqUtBuhlUToZr",
+        "id": "0QMZ4b8IHNqUtBuhlUToZr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b64443f24494caee0d7c9d4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b64443f24494caee0d7c9d4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b64443f24494caee0d7c9d4",
+            "width": 64
+          }
+        ],
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "release_date": "2020-02-06",
+        "release_date_precision": "day",
+        "total_tracks": 31,
+        "type": "album",
+        "uri": "spotify:album:0QMZ4b8IHNqUtBuhlUToZr"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203133,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITQ002000003"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4JNT4VElmvNmJaQUhwPzg9",
+      "id": "4JNT4VElmvNmJaQUhwPzg9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tikibombom",
+      "popularity": 58,
+      "preview_url": "https://p.scdn.co/mp3-preview/4ed89fbda5d4e119946a7ced5bce0260473a60e9?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4JNT4VElmvNmJaQUhwPzg9"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/71Wi9XbCLkad6KGyjgmuTp"
+            },
+            "href": "https://api.spotify.com/v1/artists/71Wi9XbCLkad6KGyjgmuTp",
+            "id": "71Wi9XbCLkad6KGyjgmuTp",
+            "name": "Altarboy",
+            "type": "artist",
+            "uri": "spotify:artist:71Wi9XbCLkad6KGyjgmuTp"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0kXIGgtcXQEGzLWRwsGfuW"
+        },
+        "href": "https://api.spotify.com/v1/albums/0kXIGgtcXQEGzLWRwsGfuW",
+        "id": "0kXIGgtcXQEGzLWRwsGfuW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27329bd923adee500480368503f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0229bd923adee500480368503f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485129bd923adee500480368503f",
+            "width": 64
+          }
+        ],
+        "name": "Vertigine (feat. Altarboy) [From Netflix Original Series Baby 3]",
+        "release_date": "2020-09-17",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0kXIGgtcXQEGzLWRwsGfuW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/71Wi9XbCLkad6KGyjgmuTp"
+          },
+          "href": "https://api.spotify.com/v1/artists/71Wi9XbCLkad6KGyjgmuTp",
+          "id": "71Wi9XbCLkad6KGyjgmuTp",
+          "name": "Altarboy",
+          "type": "artist",
+          "uri": "spotify:artist:71Wi9XbCLkad6KGyjgmuTp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231897,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITQ002000437"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6r6YWM1TXM2WXZDhcwpx2z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6r6YWM1TXM2WXZDhcwpx2z",
+      "id": "6r6YWM1TXM2WXZDhcwpx2z",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Vertigine (feat. Altarboy) [From Netflix Original Series Baby 3]",
+      "popularity": 57,
+      "preview_url": "https://p.scdn.co/mp3-preview/50c14de3d9f8d4e194e3b513d4cebf5b74a205cc?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6r6YWM1TXM2WXZDhcwpx2z"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0ql5C4ZUwhO0KVOYJN4ccc"
+        },
+        "href": "https://api.spotify.com/v1/albums/0ql5C4ZUwhO0KVOYJN4ccc",
+        "id": "0ql5C4ZUwhO0KVOYJN4ccc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736ea1cc6a923f4230324560d9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026ea1cc6a923f4230324560d9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516ea1cc6a923f4230324560d9",
+            "width": 64
+          }
+        ],
+        "name": "Sirene",
+        "release_date": "2020-07-07",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0ql5C4ZUwhO0KVOYJN4ccc"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205652,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITQ002000368"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1S6A0O2xkqomFKzUMaK1B0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1S6A0O2xkqomFKzUMaK1B0",
+      "id": "1S6A0O2xkqomFKzUMaK1B0",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sirene",
+      "popularity": 50,
+      "preview_url": "https://p.scdn.co/mp3-preview/8e54b7839d91046757675312d1b835f601bb8fe1?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1S6A0O2xkqomFKzUMaK1B0"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5AxdxlFwuB1SukQLvGizF3"
+        },
+        "href": "https://api.spotify.com/v1/albums/5AxdxlFwuB1SukQLvGizF3",
+        "id": "5AxdxlFwuB1SukQLvGizF3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27350d4ef59f2d398394b15ecd3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0250d4ef59f2d398394b15ecd3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485150d4ef59f2d398394b15ecd3",
+            "width": 64
+          }
+        ],
+        "name": "Nel Caos Di Stanze Stupefacenti",
+        "release_date": "2017-04-07",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:5AxdxlFwuB1SukQLvGizF3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1h5O32I1o0VOnpLmKXLfRa",
+          "id": "1h5O32I1o0VOnpLmKXLfRa",
+          "name": "Max Gazzé",
+          "type": "artist",
+          "uri": "spotify:artist:1h5O32I1o0VOnpLmKXLfRa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202453,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB261700080"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3dHgPdH2zvz4hBB9kg4b52"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3dHgPdH2zvz4hBB9kg4b52",
+      "id": "3dHgPdH2zvz4hBB9kg4b52",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pezzo di me (feat. Max Gazzè)",
+      "popularity": 48,
+      "preview_url": "https://p.scdn.co/mp3-preview/da5c4019745ed7f8c9a9b04e33ba280b81dd6419?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3dHgPdH2zvz4hBB9kg4b52"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5GJeailTYF3T9QmwbOyHzw"
+        },
+        "href": "https://api.spotify.com/v1/albums/5GJeailTYF3T9QmwbOyHzw",
+        "id": "5GJeailTYF3T9QmwbOyHzw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/f15c63f0d83555c924ccd61b3c57d1bbc40c577b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ca8d4c0beaa2cfa5e8b49cfca2d8f9da566bd832",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f457abc2a8ef4e411a7f756acb5e7931a08739d9",
+            "width": 64
+          }
+        ],
+        "name": "Manuale Distruzione",
+        "release_date": "2014-03-11",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:5GJeailTYF3T9QmwbOyHzw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITK251310018"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/064YVr74taXgyMZlkM5XtG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/064YVr74taXgyMZlkM5XtG",
+      "id": "064YVr74taXgyMZlkM5XtG",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Alfonso",
+      "popularity": 46,
+      "preview_url": "https://p.scdn.co/mp3-preview/700b8ffc8d327bd19085cf715f5bb3b16a1f47c3?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:064YVr74taXgyMZlkM5XtG"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6qyLSbc6i7KYUHTAgNjLBT"
+        },
+        "href": "https://api.spotify.com/v1/albums/6qyLSbc6i7KYUHTAgNjLBT",
+        "id": "6qyLSbc6i7KYUHTAgNjLBT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273411899cc33d61c50ebe08769",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02411899cc33d61c50ebe08769",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851411899cc33d61c50ebe08769",
+            "width": 64
+          }
+        ],
+        "name": "Dall'alba al tramonto",
+        "release_date": "2021-05-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6qyLSbc6i7KYUHTAgNjLBT"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232210,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITQ002100311"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NADcylvrsRHTsWxb8A9Oo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NADcylvrsRHTsWxb8A9Oo",
+      "id": "4NADcylvrsRHTsWxb8A9Oo",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dall'alba al tramonto",
+      "popularity": 45,
+      "preview_url": "https://p.scdn.co/mp3-preview/cd7101f2b67d0fd24012c8485bec4fd09d1b3f0c?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4NADcylvrsRHTsWxb8A9Oo"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
+        },
+        "href": "https://api.spotify.com/v1/albums/0QMZ4b8IHNqUtBuhlUToZr",
+        "id": "0QMZ4b8IHNqUtBuhlUToZr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b64443f24494caee0d7c9d4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b64443f24494caee0d7c9d4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b64443f24494caee0d7c9d4",
+            "width": 64
+          }
+        ],
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "release_date": "2020-02-06",
+        "release_date_precision": "day",
+        "total_tracks": 31,
+        "type": "album",
+        "uri": "spotify:album:0QMZ4b8IHNqUtBuhlUToZr"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E"
+          },
+          "href": "https://api.spotify.com/v1/artists/6C3OLzdOvBI9yCOCf7iC4E",
+          "id": "6C3OLzdOvBI9yCOCf7iC4E",
+          "name": "Carmen Consoli",
+          "type": "artist",
+          "uri": "spotify:artist:6C3OLzdOvBI9yCOCf7iC4E"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231471,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITQ001900078"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5cmf88Zsg5NMlE3ghN1Xtg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5cmf88Zsg5NMlE3ghN1Xtg",
+      "id": "5cmf88Zsg5NMlE3ghN1Xtg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Lo stretto necessario (with Carmen Consoli)",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/98aaa8691b29765aa48e03cf3ad5dd4796bf9c4e?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5cmf88Zsg5NMlE3ghN1Xtg"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
+        },
+        "href": "https://api.spotify.com/v1/albums/0QMZ4b8IHNqUtBuhlUToZr",
+        "id": "0QMZ4b8IHNqUtBuhlUToZr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b64443f24494caee0d7c9d4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b64443f24494caee0d7c9d4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b64443f24494caee0d7c9d4",
+            "width": 64
+          }
+        ],
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "release_date": "2020-02-06",
+        "release_date_precision": "day",
+        "total_tracks": 31,
+        "type": "album",
+        "uri": "spotify:album:0QMZ4b8IHNqUtBuhlUToZr"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227542,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITQ001900046"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2BWrKM3dAzAKd4wtQ8aBZl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2BWrKM3dAzAKd4wtQ8aBZl",
+      "id": "2BWrKM3dAzAKd4wtQ8aBZl",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Andrà tutto bene",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/6316a5405507f1eb1091fada34d596f4ce053d8b?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2BWrKM3dAzAKd4wtQ8aBZl"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5AxdxlFwuB1SukQLvGizF3"
+        },
+        "href": "https://api.spotify.com/v1/albums/5AxdxlFwuB1SukQLvGizF3",
+        "id": "5AxdxlFwuB1SukQLvGizF3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27350d4ef59f2d398394b15ecd3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0250d4ef59f2d398394b15ecd3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485150d4ef59f2d398394b15ecd3",
+            "width": 64
+          }
+        ],
+        "name": "Nel Caos Di Stanze Stupefacenti",
+        "release_date": "2017-04-07",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:5AxdxlFwuB1SukQLvGizF3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189400,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB261700040"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2YDvzucThbIrpc2W13KIzk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2YDvzucThbIrpc2W13KIzk",
+      "id": "2YDvzucThbIrpc2W13KIzk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Non me ne frega niente",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/b906b84948aa2b3c0493941b45a187cecf352089?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2YDvzucThbIrpc2W13KIzk"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+            },
+            "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+            "id": "5mTg1ztZByLRHsOEtwmT4G",
+            "name": "Levante",
+            "type": "artist",
+            "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6IDmq7yV5fhYfP5pDXwH90"
+        },
+        "href": "https://api.spotify.com/v1/albums/6IDmq7yV5fhYfP5pDXwH90",
+        "id": "6IDmq7yV5fhYfP5pDXwH90",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273499e5dd583792b4bdc8042be",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02499e5dd583792b4bdc8042be",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851499e5dd583792b4bdc8042be",
+            "width": 64
+          }
+        ],
+        "name": "Abbi cura di te",
+        "release_date": "2015-05-05",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:6IDmq7yV5fhYfP5pDXwH90"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248960,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "ITB261500130"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/23uQNAmkdbOzlXzCjBUOug"
+      },
+      "href": "https://api.spotify.com/v1/tracks/23uQNAmkdbOzlXzCjBUOug",
+      "id": "23uQNAmkdbOzlXzCjBUOug",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Abbi cura di te",
+      "popularity": 39,
+      "preview_url": "https://p.scdn.co/mp3-preview/0a8c16d0fb59f84b33e3fe3dde15c21c64268056?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:23uQNAmkdbOzlXzCjBUOug"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+  },
+  "followers": {
+    "href": null,
+    "total": 1081882
+  },
+  "genres": [
+    "alternative metal",
+    "candy pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2R57sY41L9XvGPiIgHOaYq",
+  "id": "2R57sY41L9XvGPiIgHOaYq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/d6287f3462e601ba95253c9514cadf8b234cb4bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/7bac7dcf387a6dd5b14fa9f0e6b21963d017bef0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/b02baac54e4aba8de9f51f38164204021c3f78bc",
+      "width": 160
+    }
+  ],
+  "name": "The Pretty Reckless",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:2R57sY41L9XvGPiIgHOaYq"
+}

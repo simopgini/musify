@@ -1,0 +1,497 @@
+{
+  "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "href": "https://api.spotify.com/v1/albums/5yAXUpsKaby5IcXgzrNFAw",
+      "id": "5yAXUpsKaby5IcXgzrNFAw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273178ed3a665dbf47a233246b0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02178ed3a665dbf47a233246b0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851178ed3a665dbf47a233246b0",
+          "width": 64
+        }
+      ],
+      "name": "A Celebration Of Endings",
+      "release_date": "2020-08-14",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5yAXUpsKaby5IcXgzrNFAw"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2uZD6LBzoRX90llmDnOzXE"
+      },
+      "href": "https://api.spotify.com/v1/albums/2uZD6LBzoRX90llmDnOzXE",
+      "id": "2uZD6LBzoRX90llmDnOzXE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e06f5d2eb04f4d927aecd717",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e06f5d2eb04f4d927aecd717",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e06f5d2eb04f4d927aecd717",
+          "width": 64
+        }
+      ],
+      "name": "Balance, Not Symmetry (Original Motion Picture Soundtrack)",
+      "release_date": "2019-05-17",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:2uZD6LBzoRX90llmDnOzXE"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4nukKAVO1NR7IzD5oGxjeS"
+      },
+      "href": "https://api.spotify.com/v1/albums/4nukKAVO1NR7IzD5oGxjeS",
+      "id": "4nukKAVO1NR7IzD5oGxjeS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a2dc90767d05ddd760d6833",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a2dc90767d05ddd760d6833",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a2dc90767d05ddd760d6833",
+          "width": 64
+        }
+      ],
+      "name": "MTV Unplugged (Live at Roundhouse, London)",
+      "release_date": "2018-05-25",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4nukKAVO1NR7IzD5oGxjeS"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "href": "https://api.spotify.com/v1/albums/3tepMmhxS4GyvLA9tiRKlo",
+      "id": "3tepMmhxS4GyvLA9tiRKlo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a58e86f9d8151cc120375523",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a58e86f9d8151cc120375523",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a58e86f9d8151cc120375523",
+          "width": 64
+        }
+      ],
+      "name": "Ellipsis",
+      "release_date": "2016-01-13",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3tepMmhxS4GyvLA9tiRKlo"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5IRRC3nCfo3LygsxQ6AWKB"
+      },
+      "href": "https://api.spotify.com/v1/albums/5IRRC3nCfo3LygsxQ6AWKB",
+      "id": "5IRRC3nCfo3LygsxQ6AWKB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ef54050b6f2373a23ec5d79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029ef54050b6f2373a23ec5d79",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519ef54050b6f2373a23ec5d79",
+          "width": 64
+        }
+      ],
+      "name": "Similarities",
+      "release_date": "2014-07-18",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5IRRC3nCfo3LygsxQ6AWKB"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oGG66OOobRoldGzZjI31P"
+      },
+      "href": "https://api.spotify.com/v1/albums/3oGG66OOobRoldGzZjI31P",
+      "id": "3oGG66OOobRoldGzZjI31P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e787cd1a6fe304f427107446",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e787cd1a6fe304f427107446",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e787cd1a6fe304f427107446",
+          "width": 64
+        }
+      ],
+      "name": "Opposites",
+      "release_date": "2013-01-25",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:3oGG66OOobRoldGzZjI31P"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Q4rOLMAJkH7HBUhKUgVth"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Q4rOLMAJkH7HBUhKUgVth",
+      "id": "1Q4rOLMAJkH7HBUhKUgVth",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731de161799b3e5f5ebe2ce8ad",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021de161799b3e5f5ebe2ce8ad",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511de161799b3e5f5ebe2ce8ad",
+          "width": 64
+        }
+      ],
+      "name": "Infinity Land (B-sides)",
+      "release_date": "2012-09-24",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:1Q4rOLMAJkH7HBUhKUgVth"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/20mCBC0nMDTA2DjvVfleZx"
+      },
+      "href": "https://api.spotify.com/v1/albums/20mCBC0nMDTA2DjvVfleZx",
+      "id": "20mCBC0nMDTA2DjvVfleZx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f937ebd96f7635cdc6a40f57",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f937ebd96f7635cdc6a40f57",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f937ebd96f7635cdc6a40f57",
+          "width": 64
+        }
+      ],
+      "name": "Blackened Sky (B-sides)",
+      "release_date": "2012-04-02",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:20mCBC0nMDTA2DjvVfleZx"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ynjtno0bRoJV1tDWtnnJG"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ynjtno0bRoJV1tDWtnnJG",
+      "id": "3ynjtno0bRoJV1tDWtnnJG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c8606ba715a84332c33f0c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029c8606ba715a84332c33f0c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519c8606ba715a84332c33f0c4",
+          "width": 64
+        }
+      ],
+      "name": "Lonely Revolutions",
+      "release_date": "2010-01-18",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:3ynjtno0bRoJV1tDWtnnJG"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Ch5ZsoMxpy5Ef2i4mGILh",
+      "id": "6Ch5ZsoMxpy5Ef2i4mGILh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d387edace199b4e1a49f2344",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d387edace199b4e1a49f2344",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d387edace199b4e1a49f2344",
+          "width": 64
+        }
+      ],
+      "name": "Only Revolutions",
+      "release_date": "2009-11-06",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6Ch5ZsoMxpy5Ef2i4mGILh"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET",
+          "id": "1km0R7wy712AzLkA1WjKET",
+          "name": "Biffy Clyro",
+          "type": "artist",
+          "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5FXFxdcgx1Vj8gGYymp4XH"
+      },
+      "href": "https://api.spotify.com/v1/albums/5FXFxdcgx1Vj8gGYymp4XH",
+      "id": "5FXFxdcgx1Vj8gGYymp4XH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a270bedfc9a9d35849ca94c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a270bedfc9a9d35849ca94c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a270bedfc9a9d35849ca94c4",
+          "width": 64
+        }
+      ],
+      "name": "Singles 2001-2005",
+      "release_date": "2008-07-07",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5FXFxdcgx1Vj8gGYymp4XH"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/1km0R7wy712AzLkA1WjKET/albums?offset=20&limit=20&include_groups=album&market=GB",
+  "offset": 0,
+  "previous": null,
+  "total": 28
+}

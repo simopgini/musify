@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+  },
+  "followers": {
+    "href": null,
+    "total": 724498
+  },
+  "genres": [
+    "alternative pop rock",
+    "modern alternative rock",
+    "modern rock",
+    "rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
+  "id": "1kDGbuxWknIKx4FlgWxiSp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/efa7bd14d7bccefcf7b7d75d2a42c0dc78b4ade1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/39df827fd048eea12501fbb036a9314c08816837",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/61b444f2cfaee15c59b961381b133eb27b5db236",
+      "width": 160
+    }
+  ],
+  "name": "Nothing But Thieves",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+}

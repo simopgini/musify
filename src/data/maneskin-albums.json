@@ -1,0 +1,142 @@
+{
+  "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr/albums?offset=0&limit=20&include_groups=album&market=IT",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "href": "https://api.spotify.com/v1/albums/7KF1Ain9mYYlg5M46g0i4A",
+      "id": "7KF1Ain9mYYlg5M46g0i4A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d4483341d2ef9d944e82186",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023d4483341d2ef9d944e82186",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513d4483341d2ef9d944e82186",
+          "width": 64
+        }
+      ],
+      "name": "Teatro d'ira - Vol. I",
+      "release_date": "2021-03-19",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:7KF1Ain9mYYlg5M46g0i4A"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
+      },
+      "href": "https://api.spotify.com/v1/albums/44a7Wk3Jh2JGVhjcFYWozj",
+      "id": "44a7Wk3Jh2JGVhjcFYWozj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dbc892b8194e35ca3524e767",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+          "width": 64
+        }
+      ],
+      "name": "Il ballo della vita",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:44a7Wk3Jh2JGVhjcFYWozj"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+          "id": "0lAWpj5szCSwM4rUMHYmrr",
+          "name": "Måneskin",
+          "type": "artist",
+          "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "href": "https://api.spotify.com/v1/albums/2qJw6w5XwQO0PQlSWPu7Tw",
+      "id": "2qJw6w5XwQO0PQlSWPu7Tw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fa0ab3a28b5c52d8a5f97045",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
+          "width": 64
+        }
+      ],
+      "name": "Chosen",
+      "release_date": "2017-12-08",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:2qJw6w5XwQO0PQlSWPu7Tw"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 3
+}

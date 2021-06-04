@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+  },
+  "followers": {
+    "href": null,
+    "total": 3159472
+  },
+  "genres": [
+    "new wave",
+    "permanent wave",
+    "rock",
+    "uk post-punk"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+  "id": "7bu3H8JO7d0UbMoVzbo70s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/7ca743e822b80133971ccf5c70fcbd77a4f4f508",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/2cb2e14783685fd3d27006891aaaa35fc53cd82d",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/9e1ed6613ac0ef103fbfca3c11ff35fec8d9c6b1",
+      "width": 64
+    }
+  ],
+  "name": "The Cure",
+  "popularity": 79,
+  "type": "artist",
+  "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+}

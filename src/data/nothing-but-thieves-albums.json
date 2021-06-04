@@ -1,0 +1,143 @@
+{
+  "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
+          "id": "1kDGbuxWknIKx4FlgWxiSp",
+          "name": "Nothing But Thieves",
+          "type": "artist",
+          "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5LNmaMITXXVrEm4fnyUbrd"
+      },
+      "href": "https://api.spotify.com/v1/albums/5LNmaMITXXVrEm4fnyUbrd",
+      "id": "5LNmaMITXXVrEm4fnyUbrd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731cf2d58ddfedf57112d7ef76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021cf2d58ddfedf57112d7ef76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511cf2d58ddfedf57112d7ef76",
+          "width": 64
+        }
+      ],
+      "name": "Moral Panic",
+      "release_date": "2020-10-23",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5LNmaMITXXVrEm4fnyUbrd"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
+          "id": "1kDGbuxWknIKx4FlgWxiSp",
+          "name": "Nothing But Thieves",
+          "type": "artist",
+          "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/55hoOb6LdOdWvSTuA56oJO"
+      },
+      "href": "https://api.spotify.com/v1/albums/55hoOb6LdOdWvSTuA56oJO",
+      "id": "55hoOb6LdOdWvSTuA56oJO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a528418318227a86e79c2d11",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a528418318227a86e79c2d11",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a528418318227a86e79c2d11",
+          "width": 64
+        }
+      ],
+      "name": "Broken Machine",
+      "release_date": "2017-12-29",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:55hoOb6LdOdWvSTuA56oJO"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
+          "id": "1kDGbuxWknIKx4FlgWxiSp",
+          "name": "Nothing But Thieves",
+          "type": "artist",
+          "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0M9i1rBjJkZ1VBxRDIwlDA"
+      },
+      "href": "https://api.spotify.com/v1/albums/0M9i1rBjJkZ1VBxRDIwlDA",
+      "id": "0M9i1rBjJkZ1VBxRDIwlDA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732766a6290032c73b6cdb45a8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022766a6290032c73b6cdb45a8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512766a6290032c73b6cdb45a8",
+          "width": 64
+        }
+      ],
+      "name": "Nothing But Thieves",
+      "release_date": "2015-10-16",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0M9i1rBjJkZ1VBxRDIwlDA"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 9
+}

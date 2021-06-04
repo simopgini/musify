@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+  },
+  "followers": {
+    "href": null,
+    "total": 196525
+  },
+  "genres": ["indie pop", "scandipop", "swedish indie folk"],
+  "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+  "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/eb1fa570a6457c700e246a226a589f61fbc1ab97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/9f8317fd81336fbd6c5a416e530268184feb5967",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/cb978ef1c47ef17d7367b093e1b49354caa1ddbe",
+      "width": 160
+    }
+  ],
+  "name": "Flora Cash",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+}

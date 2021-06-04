@@ -1,0 +1,142 @@
+{
+  "href": "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          },
+          "href": "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+          "id": "2S5hlvw4CMtMGswFtfdK15",
+          "name": "Royal Blood",
+          "type": "artist",
+          "uri": "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "href": "https://api.spotify.com/v1/albums/05aqnnpYVOvsX0SIzmIuxi",
+      "id": "05aqnnpYVOvsX0SIzmIuxi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273712b9c0f9a8d380e26a95c1c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02712b9c0f9a8d380e26a95c1c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851712b9c0f9a8d380e26a95c1c",
+          "width": 64
+        }
+      ],
+      "name": "Typhoons",
+      "release_date": "2021-04-30",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:05aqnnpYVOvsX0SIzmIuxi"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          },
+          "href": "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+          "id": "2S5hlvw4CMtMGswFtfdK15",
+          "name": "Royal Blood",
+          "type": "artist",
+          "uri": "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Rz6kF8eGqrDOEteo5YsBj",
+      "id": "3Rz6kF8eGqrDOEteo5YsBj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394b63000190c83e4dc4ea064",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294b63000190c83e4dc4ea064",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194b63000190c83e4dc4ea064",
+          "width": 64
+        }
+      ],
+      "name": "How Did We Get So Dark?",
+      "release_date": "2017-06-16",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3Rz6kF8eGqrDOEteo5YsBj"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          },
+          "href": "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+          "id": "2S5hlvw4CMtMGswFtfdK15",
+          "name": "Royal Blood",
+          "type": "artist",
+          "uri": "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G"
+      },
+      "href": "https://api.spotify.com/v1/albums/7DJijwZ2wqJrgLpcRMxs3G",
+      "id": "7DJijwZ2wqJrgLpcRMxs3G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735009d126076953c572800954",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025009d126076953c572800954",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515009d126076953c572800954",
+          "width": 64
+        }
+      ],
+      "name": "Royal Blood",
+      "release_date": "2014-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7DJijwZ2wqJrgLpcRMxs3G"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 5
+}

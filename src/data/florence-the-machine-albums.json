@@ -1,0 +1,232 @@
+{
+  "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+          "id": "1moxjboGR7GNWYIMWsRjgG",
+          "name": "Florence + The Machine",
+          "type": "artist",
+          "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0qiQfO2EHR7xWjMgSv7oPc"
+      },
+      "href": "https://api.spotify.com/v1/albums/0qiQfO2EHR7xWjMgSv7oPc",
+      "id": "0qiQfO2EHR7xWjMgSv7oPc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd2ca89045c6f68219784709",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd2ca89045c6f68219784709",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd2ca89045c6f68219784709",
+          "width": 64
+        }
+      ],
+      "name": "High As Hope",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:0qiQfO2EHR7xWjMgSv7oPc"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+          "id": "1moxjboGR7GNWYIMWsRjgG",
+          "name": "Florence + The Machine",
+          "type": "artist",
+          "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2btszoya78vyT8fwelmVnz"
+      },
+      "href": "https://api.spotify.com/v1/albums/2btszoya78vyT8fwelmVnz",
+      "id": "2btszoya78vyT8fwelmVnz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02749edeb8bb7308fcb146badc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851749edeb8bb7308fcb146badc",
+          "width": 64
+        }
+      ],
+      "name": "How Big, How Blue, How Beautiful",
+      "release_date": "2015-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2btszoya78vyT8fwelmVnz"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+          "id": "1moxjboGR7GNWYIMWsRjgG",
+          "name": "Florence + The Machine",
+          "type": "artist",
+          "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3tFAP5BTa1lwUp7lLJ9FlG"
+      },
+      "href": "https://api.spotify.com/v1/albums/3tFAP5BTa1lwUp7lLJ9FlG",
+      "id": "3tFAP5BTa1lwUp7lLJ9FlG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27334e21d0a51baa21dc4091b96",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0234e21d0a51baa21dc4091b96",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485134e21d0a51baa21dc4091b96",
+          "width": 64
+        }
+      ],
+      "name": "Ceremonials",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:3tFAP5BTa1lwUp7lLJ9FlG"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+          "id": "1moxjboGR7GNWYIMWsRjgG",
+          "name": "Florence + The Machine",
+          "type": "artist",
+          "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh"
+      },
+      "href": "https://api.spotify.com/v1/albums/1iA9sq6Ldnw1HP1YXpa8jh",
+      "id": "1iA9sq6Ldnw1HP1YXpa8jh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738fcd165e3cc600c1364eb6bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028fcd165e3cc600c1364eb6bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518fcd165e3cc600c1364eb6bc",
+          "width": 64
+        }
+      ],
+      "name": "Between Two Lungs",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:1iA9sq6Ldnw1HP1YXpa8jh"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+          "id": "1moxjboGR7GNWYIMWsRjgG",
+          "name": "Florence + The Machine",
+          "type": "artist",
+          "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/58nHLzYWPr0YhsECvy7Ihw"
+      },
+      "href": "https://api.spotify.com/v1/albums/58nHLzYWPr0YhsECvy7Ihw",
+      "id": "58nHLzYWPr0YhsECvy7Ihw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27399daa3b1fc7539c7caade270",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0299daa3b1fc7539c7caade270",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485199daa3b1fc7539c7caade270",
+          "width": 64
+        }
+      ],
+      "name": "Lungs (10th Anniversary Edition)",
+      "release_date": "2009-07-03",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:58nHLzYWPr0YhsECvy7Ihw"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG/albums?offset=20&limit=20&include_groups=album&market=GB",
+  "offset": 0,
+  "previous": null,
+  "total": 25
+}

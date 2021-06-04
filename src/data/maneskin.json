@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+  },
+  "followers": {
+    "href": null,
+    "total": 1109079
+  },
+  "genres": [
+    "indie rock italiano",
+    "italian adult pop",
+    "italian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+  "id": "0lAWpj5szCSwM4rUMHYmrr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/1cf88369cfa7ec3a5ad92422fa79fa341efca03f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ca45b3d4b0d5a3d27a52f71085e13a5c0dd7a909",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ae09e052da771b750f58b823915589ed14902481",
+      "width": 160
+    }
+  ],
+  "name": "Måneskin",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+}

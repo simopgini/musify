@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+  },
+  "followers": {
+    "href": null,
+    "total": 2041358
+  },
+  "genres": [
+    "alternative metal",
+    "alternative rock",
+    "art rock",
+    "nu metal",
+    "progressive metal",
+    "progressive rock",
+    "rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2yEwvVSSSUkcLeSTNyHKh8",
+  "id": "2yEwvVSSSUkcLeSTNyHKh8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/c23701238e46876969ea3b694e9b42b8db133b91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/92203c0bb48f7f745fb71e7cbfab847dacdebe9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ae6df085e0b92414ec2072a1835523a6fedd00c1",
+      "width": 160
+    }
+  ],
+  "name": "TOOL",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:2yEwvVSSSUkcLeSTNyHKh8"
+}

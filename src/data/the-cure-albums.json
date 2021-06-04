@@ -1,0 +1,543 @@
+{
+  "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3rK1q79KbTporCJVvbMNUX"
+      },
+      "href": "https://api.spotify.com/v1/albums/3rK1q79KbTporCJVvbMNUX",
+      "id": "3rK1q79KbTporCJVvbMNUX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731bef475cc22d53cd980be970",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021bef475cc22d53cd980be970",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511bef475cc22d53cd980be970",
+          "width": 64
+        }
+      ],
+      "name": "Anniversary: 1978 - 2018 Live In Hyde Park London",
+      "release_date": "2019-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:3rK1q79KbTporCJVvbMNUX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ahpXI6Bt5O4riIW0frHmR"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ahpXI6Bt5O4riIW0frHmR",
+      "id": "1ahpXI6Bt5O4riIW0frHmR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739245fd967146eba4fc7156a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029245fd967146eba4fc7156a3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519245fd967146eba4fc7156a3",
+          "width": 64
+        }
+      ],
+      "name": "Curaetion-25: From There To Here | From Here To There (Live)",
+      "release_date": "2019-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 28,
+      "type": "album",
+      "uri": "spotify:album:1ahpXI6Bt5O4riIW0frHmR"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5bTDNDi8bt5A7VdCkDCzbe"
+      },
+      "href": "https://api.spotify.com/v1/albums/5bTDNDi8bt5A7VdCkDCzbe",
+      "id": "5bTDNDi8bt5A7VdCkDCzbe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aa535fa4c5245e587461c37d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aa535fa4c5245e587461c37d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aa535fa4c5245e587461c37d",
+          "width": 64
+        }
+      ],
+      "name": "Mixed Up (Deluxe Edition)",
+      "release_date": "2018-06-15",
+      "release_date_precision": "day",
+      "total_tracks": 38,
+      "type": "album",
+      "uri": "spotify:album:5bTDNDi8bt5A7VdCkDCzbe"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/13bFPRDAkqyw1X5ZDdbxpJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/13bFPRDAkqyw1X5ZDdbxpJ",
+      "id": "13bFPRDAkqyw1X5ZDdbxpJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27332446764b52da642bfdf02aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0232446764b52da642bfdf02aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485132446764b52da642bfdf02aa",
+          "width": 64
+        }
+      ],
+      "name": "Bestival Live 2011",
+      "release_date": "2011-12-05",
+      "release_date_precision": "day",
+      "total_tracks": 32,
+      "type": "album",
+      "uri": "spotify:album:13bFPRDAkqyw1X5ZDdbxpJ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
+      },
+      "href": "https://api.spotify.com/v1/albums/0gd0t1iQ3WReB8TNQvALTV",
+      "id": "0gd0t1iQ3WReB8TNQvALTV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273980589b09c55f79a4f90e227",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02980589b09c55f79a4f90e227",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851980589b09c55f79a4f90e227",
+          "width": 64
+        }
+      ],
+      "name": "4:13 Dream",
+      "release_date": "2008-10-27",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0gd0t1iQ3WReB8TNQvALTV"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2xlZyYNX6RCaNb5AylzHng"
+      },
+      "href": "https://api.spotify.com/v1/albums/2xlZyYNX6RCaNb5AylzHng",
+      "id": "2xlZyYNX6RCaNb5AylzHng",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322eba29976ca3b318b73d609",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222eba29976ca3b318b73d609",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122eba29976ca3b318b73d609",
+          "width": 64
+        }
+      ],
+      "name": "Hypnagogic States",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:2xlZyYNX6RCaNb5AylzHng"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4io7YzNmqUyX4JSqeqsl6F"
+      },
+      "href": "https://api.spotify.com/v1/albums/4io7YzNmqUyX4JSqeqsl6F",
+      "id": "4io7YzNmqUyX4JSqeqsl6F",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27340ed8ea6d5a58a7f499ff5f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0240ed8ea6d5a58a7f499ff5f7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485140ed8ea6d5a58a7f499ff5f7",
+          "width": 64
+        }
+      ],
+      "name": "The Cure",
+      "release_date": "2004-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4io7YzNmqUyX4JSqeqsl6F"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5swgMRfWHhnsES6D65MyN1"
+      },
+      "href": "https://api.spotify.com/v1/albums/5swgMRfWHhnsES6D65MyN1",
+      "id": "5swgMRfWHhnsES6D65MyN1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b49e2ba7d2fb4319c91402bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b49e2ba7d2fb4319c91402bf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b49e2ba7d2fb4319c91402bf",
+          "width": 64
+        }
+      ],
+      "name": "Bloodflowers",
+      "release_date": "2000-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5swgMRfWHhnsES6D65MyN1"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/69XNTota6w88wrLZt4AX9n"
+      },
+      "href": "https://api.spotify.com/v1/albums/69XNTota6w88wrLZt4AX9n",
+      "id": "69XNTota6w88wrLZt4AX9n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732c453181005423b9ea3daa6b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022c453181005423b9ea3daa6b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512c453181005423b9ea3daa6b",
+          "width": 64
+        }
+      ],
+      "name": "Wild Mood Swings",
+      "release_date": "1996-05-06",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:69XNTota6w88wrLZt4AX9n"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/76SLjoVYQjqqXPuoCzmSRw"
+      },
+      "href": "https://api.spotify.com/v1/albums/76SLjoVYQjqqXPuoCzmSRw",
+      "id": "76SLjoVYQjqqXPuoCzmSRw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731cf14c1dfb0ae31c25bb7058",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021cf14c1dfb0ae31c25bb7058",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511cf14c1dfb0ae31c25bb7058",
+          "width": 64
+        }
+      ],
+      "name": "Show",
+      "release_date": "1993-10-26",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:76SLjoVYQjqqXPuoCzmSRw"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2kvp7gVn5GL2r6B6w6piuc"
+      },
+      "href": "https://api.spotify.com/v1/albums/2kvp7gVn5GL2r6B6w6piuc",
+      "id": "2kvp7gVn5GL2r6B6w6piuc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27318a4a0cf33f79a8e3aa08ef2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0218a4a0cf33f79a8e3aa08ef2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485118a4a0cf33f79a8e3aa08ef2",
+          "width": 64
+        }
+      ],
+      "name": "Paris",
+      "release_date": "1993-10-25",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2kvp7gVn5GL2r6B6w6piuc"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "href": "https://api.spotify.com/v1/albums/0aEL0zQ4XLuxQP0j7sLlS1",
+      "id": "0aEL0zQ4XLuxQP0j7sLlS1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c72b249fcaa04d074c1dfcd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029c72b249fcaa04d074c1dfcd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd",
+          "width": 64
+        }
+      ],
+      "name": "Wish",
+      "release_date": "1992-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0aEL0zQ4XLuxQP0j7sLlS1"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s/albums?offset=20&limit=20&include_groups=album&market=GB",
+  "offset": 0,
+  "previous": null,
+  "total": 63
+}

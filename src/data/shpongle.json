@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 215367
+  },
+  "genres": [
+    "downtempo",
+    "livetronica",
+    "new tribe",
+    "psychedelic trance",
+    "psychill"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0m5XJwKGYyUjd3VMfcINCQ",
+  "id": "0m5XJwKGYyUjd3VMfcINCQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/7f5f331bacc18aee833dedd6f4c637da890d0001",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/7ac3699438281d5767a4f3b1ed321c2ecc05127a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/77fe9b487874527b42cf66e34a80f56921bdc5ce",
+      "width": 160
+    }
+  ],
+  "name": "Shpongle",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:0m5XJwKGYyUjd3VMfcINCQ"
+}

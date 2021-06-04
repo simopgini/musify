@@ -1,0 +1,188 @@
+{
+  "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1v2tJCxhhGbi1J0SK22NZK"
+      },
+      "href": "https://api.spotify.com/v1/albums/1v2tJCxhhGbi1J0SK22NZK",
+      "id": "1v2tJCxhhGbi1J0SK22NZK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cbc5095d009b19a8ab6037da",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cbc5095d009b19a8ab6037da",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cbc5095d009b19a8ab6037da",
+          "width": 64
+        }
+      ],
+      "name": "Magmamemoria MMXX (Deluxe Edition)",
+      "release_date": "2020-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 32,
+      "type": "album",
+      "uri": "spotify:album:1v2tJCxhhGbi1J0SK22NZK"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5AxdxlFwuB1SukQLvGizF3"
+      },
+      "href": "https://api.spotify.com/v1/albums/5AxdxlFwuB1SukQLvGizF3",
+      "id": "5AxdxlFwuB1SukQLvGizF3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27350d4ef59f2d398394b15ecd3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0250d4ef59f2d398394b15ecd3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485150d4ef59f2d398394b15ecd3",
+          "width": 64
+        }
+      ],
+      "name": "Nel Caos Di Stanze Stupefacenti",
+      "release_date": "2017-04-07",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5AxdxlFwuB1SukQLvGizF3"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6IDmq7yV5fhYfP5pDXwH90"
+      },
+      "href": "https://api.spotify.com/v1/albums/6IDmq7yV5fhYfP5pDXwH90",
+      "id": "6IDmq7yV5fhYfP5pDXwH90",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273499e5dd583792b4bdc8042be",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02499e5dd583792b4bdc8042be",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851499e5dd583792b4bdc8042be",
+          "width": 64
+        }
+      ],
+      "name": "Abbi cura di te",
+      "release_date": "2015-05-05",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6IDmq7yV5fhYfP5pDXwH90"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+          "id": "5mTg1ztZByLRHsOEtwmT4G",
+          "name": "Levante",
+          "type": "artist",
+          "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5GJeailTYF3T9QmwbOyHzw"
+      },
+      "href": "https://api.spotify.com/v1/albums/5GJeailTYF3T9QmwbOyHzw",
+      "id": "5GJeailTYF3T9QmwbOyHzw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f15c63f0d83555c924ccd61b3c57d1bbc40c577b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ca8d4c0beaa2cfa5e8b49cfca2d8f9da566bd832",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f457abc2a8ef4e411a7f756acb5e7931a08739d9",
+          "width": 64
+        }
+      ],
+      "name": "Manuale Distruzione",
+      "release_date": "2014-03-11",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5GJeailTYF3T9QmwbOyHzw"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 7
+}

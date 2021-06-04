@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+  },
+  "followers": {
+    "href": null,
+    "total": 204262
+  },
+  "genres": [
+    "italian adult pop",
+    "italian indie pop",
+    "italian pop",
+    "turin indie"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5mTg1ztZByLRHsOEtwmT4G",
+  "id": "5mTg1ztZByLRHsOEtwmT4G",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97ce7cd2b304094957737d67",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497ce7cd2b304094957737d67",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897ce7cd2b304094957737d67",
+      "width": 160
+    }
+  ],
+  "name": "Levante",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:5mTg1ztZByLRHsOEtwmT4G"
+}

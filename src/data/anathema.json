@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+  },
+  "followers": {
+    "href": null,
+    "total": 257246
+  },
+  "genres": [
+    "gothic metal",
+    "progressive doom",
+    "progressive metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+  "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/5bfccbb8c43027b7efa93dbd4ed2bf366a34398c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/c429e198e3700fc90420136862d07a9037c599a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/0d2d6caed428138b9161dba0a3ed9c8fd725c53b",
+      "width": 160
+    }
+  ],
+  "name": "Anathema",
+  "popularity": 56,
+  "type": "artist",
+  "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+}

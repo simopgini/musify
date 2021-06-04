@@ -1,0 +1,764 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        },
+        "href": "https://api.spotify.com/v1/albums/02w1xMzzdF2OJxTeh1basm",
+        "id": "02w1xMzzdF2OJxTeh1basm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+            "width": 64
+          }
+        ],
+        "name": "Fallen",
+        "release_date": "2003-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235893,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30200093"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0COqiPhxzoWICwFCS4eZcp",
+      "id": "0COqiPhxzoWICwFCS4eZcp",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Bring Me To Life",
+      "popularity": 80,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0COqiPhxzoWICwFCS4eZcp"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        },
+        "href": "https://api.spotify.com/v1/albums/02w1xMzzdF2OJxTeh1basm",
+        "id": "02w1xMzzdF2OJxTeh1basm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+            "width": 64
+          }
+        ],
+        "name": "Fallen",
+        "release_date": "2003-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262533,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30200104"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4UzVcXufOhGUwF56HT7b8M",
+      "id": "4UzVcXufOhGUwF56HT7b8M",
+      "is_local": false,
+      "is_playable": true,
+      "name": "My Immortal",
+      "popularity": 74,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4UzVcXufOhGUwF56HT7b8M"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        },
+        "href": "https://api.spotify.com/v1/albums/02w1xMzzdF2OJxTeh1basm",
+        "id": "02w1xMzzdF2OJxTeh1basm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+            "width": 64
+          }
+        ],
+        "name": "Fallen",
+        "release_date": "2003-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214946,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30200108"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3UygY7qW2cvG9Llkay6i1i",
+      "id": "3UygY7qW2cvG9Llkay6i1i",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Going Under",
+      "popularity": 71,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3UygY7qW2cvG9Llkay6i1i"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+        },
+        "href": "https://api.spotify.com/v1/albums/3lFQ9ihSNR5YD0yi0yTzdC",
+        "id": "3lFQ9ihSNR5YD0yi0yTzdC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027b8aabae10ab5bbe7c7f11c5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5",
+            "width": 64
+          }
+        ],
+        "name": "The Open Door",
+        "release_date": "2006-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214706,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30600102"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
+      },
+      "href": "https://api.spotify.com/v1/tracks/663Karu2rvKLdnY0eo1n3M",
+      "id": "663Karu2rvKLdnY0eo1n3M",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Call Me When You're Sober",
+      "popularity": 66,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:663Karu2rvKLdnY0eo1n3M"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        },
+        "href": "https://api.spotify.com/v1/albums/02w1xMzzdF2OJxTeh1basm",
+        "id": "02w1xMzzdF2OJxTeh1basm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+            "width": 64
+          }
+        ],
+        "name": "Fallen",
+        "release_date": "2003-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195880,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30200106"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0tWEB6BxbI48XN79QE1JbT",
+      "id": "0tWEB6BxbI48XN79QE1JbT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Everybody's Fool",
+      "popularity": 64,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0tWEB6BxbI48XN79QE1JbT"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+        },
+        "href": "https://api.spotify.com/v1/albums/3lFQ9ihSNR5YD0yi0yTzdC",
+        "id": "3lFQ9ihSNR5YD0yi0yTzdC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737b8aabae10ab5bbe7c7f11c5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027b8aabae10ab5bbe7c7f11c5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517b8aabae10ab5bbe7c7f11c5",
+            "width": 64
+          }
+        ],
+        "name": "The Open Door",
+        "release_date": "2006-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224106,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30600104"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5YaLFRpqpUzgLLDcukNn0H",
+      "id": "5YaLFRpqpUzgLLDcukNn0H",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Lithium",
+      "popularity": 62,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5YaLFRpqpUzgLLDcukNn0H"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        },
+        "href": "https://api.spotify.com/v1/albums/02w1xMzzdF2OJxTeh1basm",
+        "id": "02w1xMzzdF2OJxTeh1basm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+            "width": 64
+          }
+        ],
+        "name": "Fallen",
+        "release_date": "2003-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278066,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30200115"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/46fyLy4W9HhAkcb67kLaAV",
+      "id": "46fyLy4W9HhAkcb67kLaAV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tourniquet",
+      "popularity": 59,
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:46fyLy4W9HhAkcb67kLaAV"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        },
+        "href": "https://api.spotify.com/v1/albums/02w1xMzzdF2OJxTeh1basm",
+        "id": "02w1xMzzdF2OJxTeh1basm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0225f49ab23f0ec6332efef432",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+            "width": 64
+          }
+        ],
+        "name": "Fallen",
+        "release_date": "2003-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220360,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USWU30200110"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aYUqsvZG7bAslrUkd9Z0g"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0aYUqsvZG7bAslrUkd9Z0g",
+      "id": "0aYUqsvZG7bAslrUkd9Z0g",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hello",
+      "popularity": 59,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0aYUqsvZG7bAslrUkd9Z0g"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Z6rvvQMOMZw2DgyF4CQ9t"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Z6rvvQMOMZw2DgyF4CQ9t",
+        "id": "1Z6rvvQMOMZw2DgyF4CQ9t",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27304d5f576e7e48f01b98eabae",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0204d5f576e7e48f01b98eabae",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485104d5f576e7e48f01b98eabae",
+            "width": 64
+          }
+        ],
+        "name": "The Bitter Truth",
+        "release_date": "2021-03-26",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:1Z6rvvQMOMZw2DgyF4CQ9t"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245516,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMRSZ2003046"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0bFqnXTPcjoHsZKlSIK8Pa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0bFqnXTPcjoHsZKlSIK8Pa",
+      "id": "0bFqnXTPcjoHsZKlSIK8Pa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Better Without You",
+      "popularity": 51,
+      "preview_url": "https://p.scdn.co/mp3-preview/b82be6d2a5f3019c74bcb60556aebcb692712b36?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0bFqnXTPcjoHsZKlSIK8Pa"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+            },
+            "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+            "id": "5nGIFgo0shDenQYSE0Sn7c",
+            "name": "Evanescence",
+            "type": "artist",
+            "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Z6rvvQMOMZw2DgyF4CQ9t"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Z6rvvQMOMZw2DgyF4CQ9t",
+        "id": "1Z6rvvQMOMZw2DgyF4CQ9t",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27304d5f576e7e48f01b98eabae",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0204d5f576e7e48f01b98eabae",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485104d5f576e7e48f01b98eabae",
+            "width": 64
+          }
+        ],
+        "name": "The Bitter Truth",
+        "release_date": "2021-03-26",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:1Z6rvvQMOMZw2DgyF4CQ9t"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c",
+          "id": "5nGIFgo0shDenQYSE0Sn7c",
+          "name": "Evanescence",
+          "type": "artist",
+          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230464,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMRSZ2003044"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Pb82bodhVVLOardymYRmS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Pb82bodhVVLOardymYRmS",
+      "id": "1Pb82bodhVVLOardymYRmS",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Broken Pieces Shine",
+      "popularity": 55,
+      "preview_url": "https://p.scdn.co/mp3-preview/c8f5ecb5c5aff1e725d286e9df0c9cbca71b4c21?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1Pb82bodhVVLOardymYRmS"
+    }
+  ]
+}

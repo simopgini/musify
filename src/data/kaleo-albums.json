@@ -1,0 +1,143 @@
+{
+  "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ZuNUNl8jvYmW4w1lR2CW3",
+      "id": "1ZuNUNl8jvYmW4w1lR2CW3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735956beefe0c79f85aec384b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025956beefe0c79f85aec384b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515956beefe0c79f85aec384b6",
+          "width": 64
+        }
+      ],
+      "name": "Surface Sounds",
+      "release_date": "2021-04-23",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1ZuNUNl8jvYmW4w1lR2CW3"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4rnUOqccntrp44E0sDPVji"
+      },
+      "href": "https://api.spotify.com/v1/albums/4rnUOqccntrp44E0sDPVji",
+      "id": "4rnUOqccntrp44E0sDPVji",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27383e93f5013f72d8aee1d679d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0283e93f5013f72d8aee1d679d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485183e93f5013f72d8aee1d679d",
+          "width": 64
+        }
+      ],
+      "name": "A/B",
+      "release_date": "2016-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4rnUOqccntrp44E0sDPVji"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jdFEYD2LTYjfwxOdlVjmc",
+          "id": "7jdFEYD2LTYjfwxOdlVjmc",
+          "name": "KALEO",
+          "type": "artist",
+          "uri": "spotify:artist:7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2uv3dvULyOKlo1wsNV7zPA"
+      },
+      "href": "https://api.spotify.com/v1/albums/2uv3dvULyOKlo1wsNV7zPA",
+      "id": "2uv3dvULyOKlo1wsNV7zPA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f3564e4fd4c27b26f6dcf18",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028f3564e4fd4c27b26f6dcf18",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518f3564e4fd4c27b26f6dcf18",
+          "width": 64
+        }
+      ],
+      "name": "Kaleo",
+      "release_date": "2013-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2uv3dvULyOKlo1wsNV7zPA"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 4
+}

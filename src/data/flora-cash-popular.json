@@ -1,0 +1,774 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
+        },
+        "href": "https://api.spotify.com/v1/albums/0C61FN9PR7AocB3A0E4Fvw",
+        "id": "0C61FN9PR7AocB3A0E4Fvw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a41efd971d404d5015103712",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a41efd971d404d5015103712",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a41efd971d404d5015103712",
+            "width": 64
+          }
+        ],
+        "name": "Baby, It's Okay",
+        "release_date": "2020-03-06",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0C61FN9PR7AocB3A0E4Fvw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219013,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "SEXCG1700102"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6iWEhoALoBFnQMNVhYY0Sc",
+      "id": "6iWEhoALoBFnQMNVhYY0Sc",
+      "is_local": false,
+      "is_playable": true,
+      "name": "You're Somebody Else",
+      "popularity": 69,
+      "preview_url": "https://p.scdn.co/mp3-preview/c73d3409b16250af37e5b6f2495373b35849165c?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6iWEhoALoBFnQMNVhYY0Sc"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr"
+        },
+        "href": "https://api.spotify.com/v1/albums/3pFB2FG0kMs3MhfDfcjHRr",
+        "id": "3pFB2FG0kMs3MhfDfcjHRr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734681056ade9069257a90bf24",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024681056ade9069257a90bf24",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514681056ade9069257a90bf24",
+            "width": 64
+          }
+        ],
+        "name": "Soul Mate",
+        "release_date": "2021-04-23",
+        "release_date_precision": "day",
+        "total_tracks": 3,
+        "type": "album",
+        "uri": "spotify:album:3pFB2FG0kMs3MhfDfcjHRr"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237780,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMB622100104"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2xo3D4eKXs19ISgTcICbua",
+      "id": "2xo3D4eKXs19ISgTcICbua",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Soul Mate",
+      "popularity": 60,
+      "preview_url": "https://p.scdn.co/mp3-preview/1bbaf2e44a9ad5416d8da85088442a7314b84e55?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2xo3D4eKXs19ISgTcICbua"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/21QLZz3gwfqTImx13shZpQ"
+        },
+        "href": "https://api.spotify.com/v1/albums/21QLZz3gwfqTImx13shZpQ",
+        "id": "21QLZz3gwfqTImx13shZpQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737542263f44d0ae98b5f848e3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027542263f44d0ae98b5f848e3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517542263f44d0ae98b5f848e3",
+            "width": 64
+          }
+        ],
+        "name": "You're Somebody Else (Acoustic)",
+        "release_date": "2018-07-24",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:21QLZz3gwfqTImx13shZpQ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219029,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "SEXCG1700114"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/536vha5aAUhlb50NGDfzfa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/536vha5aAUhlb50NGDfzfa",
+      "id": "536vha5aAUhlb50NGDfzfa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "You're Somebody Else - Acoustic",
+      "popularity": 58,
+      "preview_url": "https://p.scdn.co/mp3-preview/9ff458ea76d892c22b0d47bffa4b8060a98684f4?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:536vha5aAUhlb50NGDfzfa"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
+        },
+        "href": "https://api.spotify.com/v1/albums/0C61FN9PR7AocB3A0E4Fvw",
+        "id": "0C61FN9PR7AocB3A0E4Fvw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a41efd971d404d5015103712",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a41efd971d404d5015103712",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a41efd971d404d5015103712",
+            "width": 64
+          }
+        ],
+        "name": "Baby, It's Okay",
+        "release_date": "2020-03-06",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0C61FN9PR7AocB3A0E4Fvw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219333,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USRC11902194"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4zMnV5HIi6C8sYe6LfDrHm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4zMnV5HIi6C8sYe6LfDrHm",
+      "id": "4zMnV5HIi6C8sYe6LfDrHm",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Missing Home",
+      "popularity": 49,
+      "preview_url": "https://p.scdn.co/mp3-preview/cc2b50e0e013e22ff32e72da5eef53e6058a4cde?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4zMnV5HIi6C8sYe6LfDrHm"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/388Dwy3yPndCkg4o9zLv0j"
+        },
+        "href": "https://api.spotify.com/v1/albums/388Dwy3yPndCkg4o9zLv0j",
+        "id": "388Dwy3yPndCkg4o9zLv0j",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a6cb09d674997f54bad1888",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a6cb09d674997f54bad1888",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a6cb09d674997f54bad1888",
+            "width": 64
+          }
+        ],
+        "name": "Missing Home (filous remix)",
+        "release_date": "2020-05-08",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:388Dwy3yPndCkg4o9zLv0j"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+          },
+          "href": "https://api.spotify.com/v1/artists/2IjiuEObrCKyZvSb8xLxG9",
+          "id": "2IjiuEObrCKyZvSb8xLxG9",
+          "name": "filous",
+          "type": "artist",
+          "uri": "spotify:artist:2IjiuEObrCKyZvSb8xLxG9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190226,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USRC12000510"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ds7mJmRbIXMdCeoXpp72b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ds7mJmRbIXMdCeoXpp72b",
+      "id": "4ds7mJmRbIXMdCeoXpp72b",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Missing Home - filous remix",
+      "popularity": 49,
+      "preview_url": "https://p.scdn.co/mp3-preview/368b500bcf4b3932462ad3aa2cb40044aa205f48?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4ds7mJmRbIXMdCeoXpp72b"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
+        },
+        "href": "https://api.spotify.com/v1/albums/409EdmKQVMvhRHpJSHBnJ3",
+        "id": "409EdmKQVMvhRHpJSHBnJ3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a3e32a69b603c294a884fb9f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a3e32a69b603c294a884fb9f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a3e32a69b603c294a884fb9f",
+            "width": 64
+          }
+        ],
+        "name": "Can Summer Love Last Forever?",
+        "release_date": "2016-03-18",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:409EdmKQVMvhRHpJSHBnJ3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283708,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "SEXCG1600202"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4u42LckHYKddjPpUySqHnJ",
+      "id": "4u42LckHYKddjPpUySqHnJ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "For Someone",
+      "popularity": 49,
+      "preview_url": "https://p.scdn.co/mp3-preview/384d34b13546fb27af129a9dbd6eb17cf4b4dd91?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4u42LckHYKddjPpUySqHnJ"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5yYE9LAvvaTendRVrgYTRv"
+        },
+        "href": "https://api.spotify.com/v1/albums/5yYE9LAvvaTendRVrgYTRv",
+        "id": "5yYE9LAvvaTendRVrgYTRv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c69fcb1b783c6e9f75a473b0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c69fcb1b783c6e9f75a473b0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c69fcb1b783c6e9f75a473b0",
+            "width": 64
+          }
+        ],
+        "name": "Nothing Lasts Forever (And It's Fine)",
+        "release_date": "2017-02-03",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:5yYE9LAvvaTendRVrgYTRv"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213718,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "SEXCG1700111"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GFXIR7yu84HKkvGtuHvyu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GFXIR7yu84HKkvGtuHvyu",
+      "id": "1GFXIR7yu84HKkvGtuHvyu",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The Bad Boys",
+      "popularity": 46,
+      "preview_url": "https://p.scdn.co/mp3-preview/2a0685681600ee6e4b98847569de20c40f60525f?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1GFXIR7yu84HKkvGtuHvyu"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4cyvsgs2Sx5JeVqOkXZdSe"
+        },
+        "href": "https://api.spotify.com/v1/albums/4cyvsgs2Sx5JeVqOkXZdSe",
+        "id": "4cyvsgs2Sx5JeVqOkXZdSe",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737662da5f0d033bd2d676423b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027662da5f0d033bd2d676423b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517662da5f0d033bd2d676423b",
+            "width": 64
+          }
+        ],
+        "name": "Nothing Lasts Forever (And It's Fine)",
+        "release_date": "2017-04-21",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:4cyvsgs2Sx5JeVqOkXZdSe"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "SEXCG1601201"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Eos3ejwtcIinRuYDF1jim"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Eos3ejwtcIinRuYDF1jim",
+      "id": "6Eos3ejwtcIinRuYDF1jim",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sadness Is Taking Over",
+      "popularity": 45,
+      "preview_url": "https://p.scdn.co/mp3-preview/be402b19a64a7c27b15b07dfec78b1e78c3856e6?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6Eos3ejwtcIinRuYDF1jim"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
+        },
+        "href": "https://api.spotify.com/v1/albums/0C61FN9PR7AocB3A0E4Fvw",
+        "id": "0C61FN9PR7AocB3A0E4Fvw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a41efd971d404d5015103712",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a41efd971d404d5015103712",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a41efd971d404d5015103712",
+            "width": 64
+          }
+        ],
+        "name": "Baby, It's Okay",
+        "release_date": "2020-03-06",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0C61FN9PR7AocB3A0E4Fvw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USRC11803771"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37oUyW8oIM3EFwsbT1Mft0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37oUyW8oIM3EFwsbT1Mft0",
+      "id": "37oUyW8oIM3EFwsbT1Mft0",
+      "is_local": false,
+      "is_playable": true,
+      "name": "I Wasted You",
+      "popularity": 41,
+      "preview_url": "https://p.scdn.co/mp3-preview/36ab78ed236b4a04fdb6c60a4e4058f7fcd28f7c?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:37oUyW8oIM3EFwsbT1Mft0"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+            },
+            "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+            "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+            "name": "flora cash",
+            "type": "artist",
+            "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3RXUpEhF0GKgV7suTNNgNQ"
+        },
+        "href": "https://api.spotify.com/v1/albums/3RXUpEhF0GKgV7suTNNgNQ",
+        "id": "3RXUpEhF0GKgV7suTNNgNQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7d3732555323ff093291c07",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7d3732555323ff093291c07",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a7d3732555323ff093291c07",
+            "width": 64
+          }
+        ],
+        "name": "The Bright Lights",
+        "release_date": "2021-03-19",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:3RXUpEhF0GKgV7suTNNgNQ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GpcBKNmZDIrRzYkPJu7Wd",
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist",
+          "uri": "spotify:artist:6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219214,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMB622100201"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dUbpH1y32IQKGzc254W32"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2dUbpH1y32IQKGzc254W32",
+      "id": "2dUbpH1y32IQKGzc254W32",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The Bright Lights",
+      "popularity": 42,
+      "preview_url": "https://p.scdn.co/mp3-preview/34fae2181781811a79ff1a11e8829bde8077d16f?cid=d97d303cab534789845cf6db31a686e2",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2dUbpH1y32IQKGzc254W32"
+    }
+  ]
+}

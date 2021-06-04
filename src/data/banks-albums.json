@@ -1,0 +1,187 @@
+{
+  "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n/albums?offset=0&limit=20&include_groups=album&market=GB",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo"
+      },
+      "href": "https://api.spotify.com/v1/albums/0oXzdlZ9duItTwmJLXbAfo",
+      "id": "0oXzdlZ9duItTwmJLXbAfo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ddc7c6b5ba2978d161e30af",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ddc7c6b5ba2978d161e30af",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ddc7c6b5ba2978d161e30af",
+          "width": 64
+        }
+      ],
+      "name": "III",
+      "release_date": "2019-07-12",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0oXzdlZ9duItTwmJLXbAfo"
+    },
+
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/79EzN74zd6mbiLhE4xyBcH"
+      },
+      "href": "https://api.spotify.com/v1/albums/79EzN74zd6mbiLhE4xyBcH",
+      "id": "79EzN74zd6mbiLhE4xyBcH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313704300d16e0fdda47955c0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213704300d16e0fdda47955c0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113704300d16e0fdda47955c0",
+          "width": 64
+        }
+      ],
+      "name": "The Altar",
+      "release_date": "2016-09-30",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:79EzN74zd6mbiLhE4xyBcH"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0K88Nzh4Zd6ywceshg1A3B"
+      },
+      "href": "https://api.spotify.com/v1/albums/0K88Nzh4Zd6ywceshg1A3B",
+      "id": "0K88Nzh4Zd6ywceshg1A3B",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3a3655a30454f65e259814c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3a3655a30454f65e259814c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3a3655a30454f65e259814c",
+          "width": 64
+        }
+      ],
+      "name": "Goddess (Remixes)",
+      "release_date": "2015-03-23",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:0K88Nzh4Zd6ywceshg1A3B"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6zi2ew1VBzNNJx81oj2orB"
+      },
+      "href": "https://api.spotify.com/v1/albums/6zi2ew1VBzNNJx81oj2orB",
+      "id": "6zi2ew1VBzNNJx81oj2orB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c3d73c9bb8116fdebbb89d0f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c3d73c9bb8116fdebbb89d0f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c3d73c9bb8116fdebbb89d0f",
+          "width": 64
+        }
+      ],
+      "name": "Goddess",
+      "release_date": "2014-09-08",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6zi2ew1VBzNNJx81oj2orB"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 9
+}

@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+  },
+  "followers": {
+    "href": null,
+    "total": 1238608
+  },
+  "genres": [
+    "brighton indie",
+    "garage rock",
+    "modern alternative rock",
+    "modern blues rock",
+    "modern hard rock",
+    "modern rock",
+    "rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+  "id": "2S5hlvw4CMtMGswFtfdK15",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/8ba442100dedf420b2be9e2012afd5cb134960d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/5c4c0bf9e8f2beefc96a87fda0b3d93fa9ee354b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/841b1067eb7164205149d2b55e7516407658aaf7",
+      "width": 160
+    }
+  ],
+  "name": "Royal Blood",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+}
